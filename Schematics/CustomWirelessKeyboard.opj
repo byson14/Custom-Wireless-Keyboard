@@ -1,0 +1,355 @@
+(ExpressProject "CustomWirelessKeyboard"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 P001 (4349869)  [9/14/2025]-[02/08/26]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "C:\Users\lonewolf\Desktop\Custom Keyboard\Schematics\parts_custom.OLB"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\customwirelesskeyboard.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_View_Output_Type "2")
+    (DRC_Preserved_Waived "FALSE")
+    (RUN_Online_Rules "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Check_Single_Node_Nets_Online "TRUE")
+    (DRC_Check_No_Driving_Source_Online "TRUE")
+    (DRC_Check_Duplicate_NetNames_Online "TRUE")
+    (DRC_Check_Off-Page_Connectors_Online "TRUE")
+    (DRC_Check_Ports_Online "TRUE")
+    (DRC_Check_Unconnected_Nets_Online "TRUE")
+    (DRC_Check_Floating_Pins_Online "TRUE")
+    (DRC_Run_Electrical_Reports "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility_Online "TRUE")
+    (DRC_Check_PCB_Footprint_Property_Online "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync_Online "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment_Online "TRUE")
+    (DRC_Check_Missing_Pin_Numbers_Online "TRUE")
+    (DRC_Check_Device_With_No_Pins_Online "TRUE")
+    (DRC_Check_Power_Ground_Short_Online "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks_Online "TRUE")
+    (DRC_Run_Physical_Reports "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Run_Simulation_Rules "TRUE")
+    (DRC_Check_Pspice_Model_Lib_Path_Online "TRUE")
+    (DRC_Run_Custom_Rules "FALSE")
+    (DRC_Report_File
+       "C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\CUSTOMWIRELESSKEYBOARD.DRC")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "TRUE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\customwirelesskeyboard.brd")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Input Board File"
+       "c:\users\lonewolf\desktop\custom wireless keyboard\board\keyboard.brd"))
+  (Folder "Layout"
+    (File ".\allegro\customwirelesskeyboard.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\customwirelesskeyboard.brd")
+      (InputBoard "..\board\keyboard.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\customwirelesskeyboard.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\lonewolf\desktop\custom wireless keyboard\schematics\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\lonewolf\desktop\custom wireless keyboard\schematics\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\lonewolf\desktop\custom wireless keyboard\schematics\allegro\eco.txt")))
+  (MPSSessionName "lonewolf")
+  (PartMRUSelector
+    (TLV75533PDRVR
+      (FullPartName "TLV75533PDRVR.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1770584927\TLV75533PDRVR\CAPTURE\TLV75533PDRVR.OLB")
+      (DeviceIndex "0"))
+    (NHD-0216XZ-FSW-GBW
+      (FullPartName "NHD-0216XZ-FSW-GBW.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1769804150\NHD-0216XZ-FSW-GBW\CAPTURE\NHD-0216XZ-FSW-GBW.OLB")
+      (DeviceIndex "0"))
+    (MX1A-11NN
+      (FullPartName "MX1A-11NN.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\MX1A11NN.OLB")
+      (DeviceIndex "0"))
+    (1N4148W
+      (FullPartName "1N4148W.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\1N4148W.OLB")
+      (DeviceIndex "0"))
+    (MX1A-E1NW
+      (FullPartName "MX1A-E1NW.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\CH197-ND.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (3361S-1-103GLF
+      (FullPartName "3361S-1-103GLF.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1768675153\3361S-1-103GLF.OLB")
+      (DeviceIndex "0"))
+    (NHD-14432WG-BTFH-V#T
+      (FullPartName "NHD-14432WG-BTFH-V#T.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1768671962\NHD-14432WG-BTFH-V#T\CAPTURE\NHD-14432WG-BTFH-V#T.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ISP1807-LR-RS
+      (FullPartName "ISP1807-LR-RS.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\ISP1807-LR-RS.OLB")
+      (DeviceIndex "0"))
+    (TP4056
+      (FullPartName "TP4056.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1768665702\TP4056.OLB")
+      (DeviceIndex "0"))
+    (FS8205A
+      (FullPartName "FS8205A.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1768665182\FS8205A\CAPTURE\FS8205A.OLB")
+      (DeviceIndex "0"))
+    (MTLW-101-07-G-S-280
+      (FullPartName "MTLW-101-07-G-S-280.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1768664923\MTLW-101-07-G-S-280.OLB")
+      (DeviceIndex "0"))
+    (1778764
+      (FullPartName "1778764.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\277-2315-1-ND.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (C0201C104K9PACTU
+      (FullPartName "C0201C104K9PACTU.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\399-C0201C104K9PACTUTR-ND.OLB")
+      (DeviceIndex "0"))
+    (CRGCQ0603J1K0
+      (FullPartName "CRGCQ0603J1K0.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\CRGCQ0603J1K0.OLB")
+      (DeviceIndex "0"))
+    (CRG0603J100R
+      (FullPartName "CRG0603J100R.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\CRG0603J100R.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1768663611\WL-SMCW_0603.OLB")
+      (DeviceIndex "0"))
+    (CRG0603F4K7
+      (FullPartName "CRG0603F4K7.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1768663433\CRG0603F4K7.OLB")
+      (DeviceIndex "0"))
+    (CPF0603B2K49E1
+      (FullPartName "CPF0603B2K49E1.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\CPF0603B2K49E1.OLB")
+      (DeviceIndex "0"))
+    (CRG0603ZR
+      (FullPartName "CRG0603ZR.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\CRG0603ZR.OLB")
+      (DeviceIndex "0"))
+    (CRGCQ0603F2K2
+      (FullPartName "CRGCQ0603F2K2.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\CRGCQ0603F2K2.OLB")
+      (DeviceIndex "0"))
+    (SML-D12U1WT86
+      (FullPartName "SML-D12U1WT86.Normal")
+      (LibraryName
+         "C:\USERS\LONEWOLF\DESKTOP\CADENCE\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\SML-D12U1WT86.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\lonewolf\desktop\custom wireless keyboard\schematics\customwirelesskeyboard.dsn")
+      (Path "Design Resources"
+         "c:\users\lonewolf\desktop\custom wireless keyboard\schematics\customwirelesskeyboard.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\Users\lonewolf\Desktop\Custom Keyboard\Schematics\parts_custom.OLB")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\users\lonewolf\desktop\custom wireless keyboard\schematics\customwirelesskeyboard.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 462"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1120 24 480")
+        (Scroll "0 735")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\CUSTOMWIRELESSKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "LCD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1120 24 480")
+        (Scroll "727 955")
+        (Zoom "128")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\CUSTOMWIRELESSKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "KEYS2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 1120 24 480")
+        (Scroll "66 318")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\CUSTOMWIRELESSKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Controller"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1120 24 480")
+        (Scroll "0 78")
+        (Zoom "128")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\CUSTOMWIRELESSKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "keys"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1120 24 480")
+        (Scroll "959 558")
+        (Zoom "128")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\CUSTOMWIRELESSKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1120 24 480")
+        (Scroll "321 208")
+        (Zoom "128")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\CUSTOMWIRELESSKEYBOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Led")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\lonewolf\Desktop\Custom Keyboard\Schematics")
+  (ISPCBBASICLICENSE "false"))

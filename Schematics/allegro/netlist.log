@@ -1,0 +1,39 @@
+{ Using PSTWRITER 25.1.0 d001Feb-08-2026 at 21:11:21 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.32" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_0".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.19" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "ROW_0".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.9" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "ROW_1".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.11" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "ROW_2".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.5" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "ROW_3".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.33" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_1".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.34" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_2".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.35" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_3".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.36" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_4".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.37" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_5".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.38" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_6".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "LED15.4" ignored for LED15: SCHEMATIC1, Led (129.54, 215.90). Connecting pin to net "N79430".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.15" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "ROW_4".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.12" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "+5V".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.41" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_7".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.42" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_8".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.43" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_9".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.49" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_18".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.3" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "ROW_5".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.44" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_10".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.45" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_11".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.46" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_12".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.48" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_13".
+#24 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.47" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_14".
+#25 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.52" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_15".
+#26 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.51" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_16".
+#27 WARNING(ORCAP-36038): "No_connect" property on Pin "IC1.50" ignored for IC1: SCHEMATIC1, Controller (63.50, 55.88). Connecting pin to net "COL_17".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\allegro\pstchip.dat
+
+Loading... C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\allegro\pstchip.dat
+
+Loading... C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\allegro\pstxprt.dat
+
+Loading... C:\USERS\LONEWOLF\DESKTOP\CUSTOM WIRELESS KEYBOARD\SCHEMATICS\allegro\pstxnet.dat
+packaging the design view...

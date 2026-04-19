@@ -1,0 +1,151 @@
+Date and Time : 01/11/26 00:56:25
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR(ORCAP-1628): Possible pin type conflict +3V5  Power Connected to Output
+                    SCHEMATIC1, Power  (365.76, 101.60) 
+ERROR(ORCAP-1628): Possible pin type conflict U4,OUT  Output Connected to Power
+                    SCHEMATIC1, Power  (342.90, 109.22) 
+ERROR(ORCAP-1628): Possible pin type conflict +3V3  Power Connected to Output
+                    SCHEMATIC1, Power  (386.08, 12.70) 
+ERROR(ORCAP-1628): Possible pin type conflict VR1,OUT  Output Connected to Power
+                    SCHEMATIC1, Power  (340.36, 10.16) 
+ERROR(ORCAP-1628): Possible pin type conflict U3,VCC  Power Connected to Output
+                    SCHEMATIC1, LCD  (60.96, 200.66) 
+ERROR(ORCAP-1628): Possible pin type conflict U2,OUT_10  Output Connected to Output
+                    SCHEMATIC1, Power  (104.14, 254.00) 
+ERROR(ORCAP-1628): Possible pin type conflict U2,OUT_11  Output Connected to Output
+                    SCHEMATIC1, Power  (104.14, 256.54) 
+WARNING(ORCAP-1829): Possible pin type conflict VBAT  Power Connected to Bidirectional
+                    SCHEMATIC1, Power  (154.94, 119.38) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,VIN  Power Connected to Bidirectional
+                    SCHEMATIC1, Power  (190.50, 139.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,BAT_2  Bidirectional Connected to Power
+                    SCHEMATIC1, Power  (68.58, 256.54) 
+WARNING(ORCAP-1829): Possible pin type conflict U2,BAT_3  Bidirectional Connected to Power
+                    SCHEMATIC1, Power  (68.58, 259.08) 
+ERROR(ORCAP-1628): Possible pin type conflict VOUT  Power Connected to Output
+                    SCHEMATIC1, Power  (63.50, 187.96) 
+ERROR(ORCAP-1628): Possible pin type conflict VOUT  Power Connected to Output Port
+                    SCHEMATIC1, Power  (63.50, 187.96) 
+ERROR(ORCAP-1628): Possible pin type conflict VOUT  Output Port Connected to Power
+                    SCHEMATIC1, Power  (210.82, 167.64) 
+ERROR(ORCAP-1628): Possible pin type conflict VOUT  Output Port Connected to Power
+                    SCHEMATIC1, Power  (243.84, 139.70) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,OUT  Output Connected to Output
+                    SCHEMATIC1, Power  (231.14, 142.24) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,OUT  Output Connected to Power
+                    SCHEMATIC1, Power  (231.14, 142.24) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,OUT_2  Output Connected to Output
+                    SCHEMATIC1, Power  (231.14, 139.70) 
+ERROR(ORCAP-1628): Possible pin type conflict U1,OUT_2  Output Connected to Power
+                    SCHEMATIC1, Power  (231.14, 139.70) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: CUSTOMWIRELESSKEYBOARD 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U3,VCC  VCC  +3V3
+                    SCHEMATIC1, LCD  (60.96, 200.66) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. DS1,VDD  VDD  +5V
+                    SCHEMATIC1, LCD  (205.74, 193.04) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED17,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (180.34, 223.52) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED5,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (264.16, 83.82) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED11,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (274.32, 147.32) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED9,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (116.84, 116.84) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED6,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (129.54, 86.36) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED4,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (187.96, 83.82) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED13,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (195.58, 182.88) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED14,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (271.78, 182.88) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED2,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (200.66, 55.88) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED3,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (261.62, 55.88) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED7,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (190.50, 114.30) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED12,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (124.46, 149.86) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED15,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (121.92, 185.42) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED16,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (121.92, 220.98) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED8,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (266.70, 114.30) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. LED10,VDD  VDD  +5V
+                    SCHEMATIC1, Led  (198.12, 147.32) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. DS1,VSS  VSS  GND
+                    SCHEMATIC1, LCD  (205.74, 233.68) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,EXP  EXP  GND
+                    SCHEMATIC1, Power  (104.14, 274.32) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,PGND  PGND  GND
+                    SCHEMATIC1, Power  (231.14, 137.16) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VSS  VSS  GND
+                    SCHEMATIC1, Power  (104.14, 276.86) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J3,GND#B12  GND#B12  GND
+                    SCHEMATIC1, Power  (233.68, 76.20) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J3,GND#A1  GND#A1  GND
+                    SCHEMATIC1, Power  (233.68, 68.58) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J3,GND#B1  GND#B1  GND
+                    SCHEMATIC1, Power  (233.68, 73.66) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. J3,GND#A12  GND#A12  GND
+                    SCHEMATIC1, Power  (233.68, 71.12) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,EPAD  EPAD  GND
+                    SCHEMATIC1, Power  (231.14, 132.08) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,PGND_2  PGND_2  GND
+                    SCHEMATIC1, Power  (231.14, 134.62) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. VR1,EXP  EXP  GND
+                    SCHEMATIC1, Power  (340.36, 20.32) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,AGND  AGND  GND
+                    SCHEMATIC1, Power  (190.50, 144.78) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,VIN  VIN  VBAT
+                    SCHEMATIC1, Power  (190.50, 139.70) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

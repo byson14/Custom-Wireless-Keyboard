@@ -1,0 +1,3790 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 25.1.0 d001Feb-08-2026 at 21:11:26 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CUSTOMWIRELESSKEYBOARD';
+ POST_TIME='Sep 14 2025 20:02:13';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C0603C105K9PAC7411_CAPC17595_90N_KEM-L_1U_(CAPC17595_90N_KEM,CAPC17595_90N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS32517@399-C0603C105K9PAC7411TR-ND.C0603C105K9PAC7411.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins32517@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page1_ins32517@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,370)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(60,370,80,380)',
+ SECTION='';
+
+PART_NAME
+ C10 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78586@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78586@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78586@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(700,420,720,430)',
+ SECTION='';
+
+PART_NAME
+ C11 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78602@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78602@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78602@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,420,1020,430)',
+ SECTION='';
+
+PART_NAME
+ C12 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78870@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78870@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78870@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,560)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(440,560,460,570)',
+ SECTION='';
+
+PART_NAME
+ C13 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78838@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78838@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78838@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,550)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(730,550,750,560)',
+ SECTION='';
+
+PART_NAME
+ C14 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78854@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78854@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78854@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1030,550)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1030,550,1050,560)',
+ SECTION='';
+
+PART_NAME
+ C15 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS79122@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins79122@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins79122@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(430,700,450,710)',
+ SECTION='';
+
+PART_NAME
+ C16 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS79090@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins79090@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins79090@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,690)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(720,690,740,700)',
+ SECTION='';
+
+PART_NAME
+ C17 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS79106@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins79106@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins79106@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,690)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1020,690,1040,700)',
+ SECTION='';
+
+PART_NAME
+ C18 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS79348@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins79348@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins79348@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(420,850)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(420,850,440,860)',
+ SECTION='';
+
+PART_NAME
+ C19 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS79384@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins79384@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins79384@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,850)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,850,680,860)',
+ SECTION='';
+
+PART_NAME
+ C2 'C0603C105K9PAC7411_CAPC17595_90N_KEM-L_1U_(CAPC17595_90N_KEM,CAPC17595_90N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS189405@399-C0603C105K9PAC7411TR-ND.C0603C105K9PAC7411.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins189405@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page1_ins189405@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(110,490)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(110,490,130,500)',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR_SMDCAP_1UF_10':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS97051@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins97051@templates.\capacitor.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins97051@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,50)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,50,700,60)',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR_SMDCAP_1UF_10':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS97932@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins97932@templates.\capacitor.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins97932@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,70)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(730,70,750,80)',
+ SECTION='';
+
+PART_NAME
+ C22 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1U_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS99589@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins99589@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins99589@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1100,80)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1100,80,1120,90)',
+ SECTION='';
+
+PART_NAME
+ C23 'C0603C105K9PAC7411_CAPC17595_90N_KEM-L_10UF_(CAPC17595_90N_KEM,CAPC17595_90N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS101409@399-C0603C105K9PAC7411TR-ND.C0603C105K9PAC7411.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins101409@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins101409@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,550)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1040,550,1060,560)',
+ SECTION='';
+
+PART_NAME
+ C24 'C0603C105K9PAC7411_CAPC17595_90N_KEM-L_10UF_(CAPC17595_90N_KEM,CAPC17595_90N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS101425@399-C0603C105K9PAC7411TR-ND.C0603C105K9PAC7411.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins101425@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins101425@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,550)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1300,550,1320,560)',
+ SECTION='';
+
+PART_NAME
+ C25 'C0603C105K9PAC7411_CAPC17595_90N_KEM-L_10UF_(CAPC17595_90N_KEM,CAPC17595_90N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS101571@399-C0603C105K9PAC7411TR-ND.C0603C105K9PAC7411.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins101571@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins101571@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,960)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1020,960,1040,970)',
+ SECTION='';
+
+PART_NAME
+ C26 'C0603C105K9PAC7411_CAPC17595_90N_KEM-L_10UF_(CAPC17595_90N_KEM,CAPC17595_90N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS101591@399-C0603C105K9PAC7411TR-ND.C0603C105K9PAC7411.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins101591@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins101591@\399-c0603c105k9pac7411tr-nd\.\c0603c105k9pac7411.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1270,960)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1270,960,1290,970)',
+ SECTION='';
+
+PART_NAME
+ C3 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS76238@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins76238@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page4_ins76238@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,800)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,800,230,810)',
+ SECTION='';
+
+PART_NAME
+ C4 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78086@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78086@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78086@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,190)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,190,760,200)',
+ SECTION='';
+
+PART_NAME
+ C5 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78102@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78102@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78102@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(980,190)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(980,190,1000,200)',
+ SECTION='';
+
+PART_NAME
+ C6 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78346@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78346@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78346@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,310)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(460,310,480,320)',
+ SECTION='';
+
+PART_NAME
+ C7 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78362@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78362@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78362@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,310)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(690,310,710,320)',
+ SECTION='';
+
+PART_NAME
+ C8 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78398@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78398@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78398@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,310)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(990,310,1010,320)',
+ SECTION='';
+
+PART_NAME
+ C9 'C0201C104K9PACTU_CAPC6333_33N_KEM-L_0.1UF_(CAPC6333_33N_KEM,CAPC6333_33N_KEM-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78618@399-C0201C104K9PACTUTR-ND.C0201C104K9PACTU.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78618@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78618@\399-c0201c104k9pactutr-nd\.\c0201c104k9pactu.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,430)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,430,430,440)',
+ SECTION='';
+
+PART_NAME
+ D1 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS177629@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins177629@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins177629@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,140)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,140,180,160)',
+ SECTION='';
+
+PART_NAME
+ D10 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178320@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178320@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178320@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1210,140)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1210,140,1230,160)',
+ SECTION='';
+
+PART_NAME
+ D11 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178761@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178761@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178761@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,280,180,300)',
+ SECTION='';
+
+PART_NAME
+ D12 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178777@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178777@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178777@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,280,300,300)',
+ SECTION='';
+
+PART_NAME
+ D13 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178793@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178793@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178793@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,280,410,300)',
+ SECTION='';
+
+PART_NAME
+ D14 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178809@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178809@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178809@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,280,530,300)',
+ SECTION='';
+
+PART_NAME
+ D15 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178825@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178825@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178825@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(620,280,640,300)',
+ SECTION='';
+
+PART_NAME
+ D16 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178841@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178841@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178841@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,280,760,300)',
+ SECTION='';
+
+PART_NAME
+ D17 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178857@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178857@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178857@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,280,870,300)',
+ SECTION='';
+
+PART_NAME
+ D18 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178873@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178873@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178873@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(970,280,990,300)',
+ SECTION='';
+
+PART_NAME
+ D19 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178889@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178889@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178889@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1090,280,1110,300)',
+ SECTION='';
+
+PART_NAME
+ D2 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS177708@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins177708@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins177708@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,140)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,140,300,160)',
+ SECTION='';
+
+PART_NAME
+ D20 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178905@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178905@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178905@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1210,280)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1210,280,1230,300)',
+ SECTION='';
+
+PART_NAME
+ D21 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS179455@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins179455@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins179455@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,420,180,440)',
+ SECTION='';
+
+PART_NAME
+ D22 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS179471@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins179471@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins179471@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,420,300,440)',
+ SECTION='';
+
+PART_NAME
+ D23 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS179487@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins179487@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins179487@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,420,410,440)',
+ SECTION='';
+
+PART_NAME
+ D24 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS179503@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins179503@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins179503@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,420,530,440)',
+ SECTION='';
+
+PART_NAME
+ D25 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS179519@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins179519@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins179519@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(620,420,640,440)',
+ SECTION='';
+
+PART_NAME
+ D26 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS179535@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins179535@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins179535@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,420,760,440)',
+ SECTION='';
+
+PART_NAME
+ D27 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS179551@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins179551@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins179551@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,420,870,440)',
+ SECTION='';
+
+PART_NAME
+ D28 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS179567@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins179567@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins179567@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(970,420,990,440)',
+ SECTION='';
+
+PART_NAME
+ D29 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS179583@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins179583@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins179583@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1090,420,1110,440)',
+ SECTION='';
+
+PART_NAME
+ D3 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS177781@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins177781@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins177781@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,140)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,140,410,160)',
+ SECTION='';
+
+PART_NAME
+ D30 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS179599@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins179599@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins179599@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1210,420)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1210,420,1230,440)',
+ SECTION='';
+
+PART_NAME
+ D31 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180159@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180159@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180159@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,540,180,560)',
+ SECTION='';
+
+PART_NAME
+ D32 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180175@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180175@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180175@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,540,300,560)',
+ SECTION='';
+
+PART_NAME
+ D33 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180191@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180191@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180191@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,540,410,560)',
+ SECTION='';
+
+PART_NAME
+ D34 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180207@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180207@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180207@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,540,530,560)',
+ SECTION='';
+
+PART_NAME
+ D35 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180223@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180223@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180223@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(620,540,640,560)',
+ SECTION='';
+
+PART_NAME
+ D36 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180239@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180239@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180239@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,540,760,560)',
+ SECTION='';
+
+PART_NAME
+ D37 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180255@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180255@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180255@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,540,870,560)',
+ SECTION='';
+
+PART_NAME
+ D38 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180271@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180271@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180271@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(970,540,990,560)',
+ SECTION='';
+
+PART_NAME
+ D39 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180287@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180287@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180287@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1090,540,1110,560)',
+ SECTION='';
+
+PART_NAME
+ D4 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS177855@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins177855@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins177855@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,140)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,140,530,160)',
+ SECTION='';
+
+PART_NAME
+ D40 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180303@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180303@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180303@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1210,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1210,540,1230,560)',
+ SECTION='';
+
+PART_NAME
+ D41 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180873@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180873@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180873@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,700,180,720)',
+ SECTION='';
+
+PART_NAME
+ D42 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180889@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180889@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180889@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,700,300,720)',
+ SECTION='';
+
+PART_NAME
+ D43 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180905@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180905@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180905@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,700,410,720)',
+ SECTION='';
+
+PART_NAME
+ D44 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180921@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180921@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180921@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,700,530,720)',
+ SECTION='';
+
+PART_NAME
+ D45 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180937@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180937@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180937@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(620,700,640,720)',
+ SECTION='';
+
+PART_NAME
+ D46 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180953@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180953@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180953@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,700,760,720)',
+ SECTION='';
+
+PART_NAME
+ D47 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180969@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180969@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180969@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,700,870,720)',
+ SECTION='';
+
+PART_NAME
+ D48 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS180985@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins180985@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins180985@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(970,700,990,720)',
+ SECTION='';
+
+PART_NAME
+ D49 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS181001@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins181001@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins181001@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1090,700,1110,720)',
+ SECTION='';
+
+PART_NAME
+ D5 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS177930@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins177930@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins177930@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,140)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(620,140,640,160)',
+ SECTION='';
+
+PART_NAME
+ D50 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS181017@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins181017@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins181017@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1210,700)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1210,700,1230,720)',
+ SECTION='';
+
+PART_NAME
+ D51 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS181597@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins181597@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins181597@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,810)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,810,180,830)',
+ SECTION='';
+
+PART_NAME
+ D52 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS181613@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins181613@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins181613@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,810)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(280,810,300,830)',
+ SECTION='';
+
+PART_NAME
+ D53 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS181629@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins181629@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins181629@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,810)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,810,410,830)',
+ SECTION='';
+
+PART_NAME
+ D54 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS181645@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins181645@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins181645@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,810)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,810,530,830)',
+ SECTION='';
+
+PART_NAME
+ D55 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS181693@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins181693@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins181693@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,810)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,810,870,830)',
+ SECTION='';
+
+PART_NAME
+ D56 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS181741@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins181741@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins181741@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1210,810)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1210,810,1230,830)',
+ SECTION='';
+
+PART_NAME
+ D57 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS182331@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins182331@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins182331@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,290)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,290,330,310)',
+ SECTION='';
+
+PART_NAME
+ D58 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS182347@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins182347@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins182347@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,290)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(430,290,450,310)',
+ SECTION='';
+
+PART_NAME
+ D59 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS182363@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins182363@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins182363@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,290)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(540,290,560,310)',
+ SECTION='';
+
+PART_NAME
+ D6 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178006@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178006@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178006@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,140)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,140,760,160)',
+ SECTION='';
+
+PART_NAME
+ D60 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS182395@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins182395@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins182395@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,290)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(770,290,790,310)',
+ SECTION='';
+
+PART_NAME
+ D61 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183008@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183008@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183008@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,430)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,430,330,450)',
+ SECTION='';
+
+PART_NAME
+ D62 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183024@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183024@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183024@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,430)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(430,430,450,450)',
+ SECTION='';
+
+PART_NAME
+ D63 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183040@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183040@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183040@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,430)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(540,430,560,450)',
+ SECTION='';
+
+PART_NAME
+ D64 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183056@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183056@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183056@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,430)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,430,680,450)',
+ SECTION='';
+
+PART_NAME
+ D65 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183088@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183088@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183088@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,430)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,430,910,450)',
+ SECTION='';
+
+PART_NAME
+ D66 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183104@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183104@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183104@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,430)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,430,1020,450)',
+ SECTION='';
+
+PART_NAME
+ D67 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183120@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183120@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183120@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,430)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1120,430,1140,450)',
+ SECTION='';
+
+PART_NAME
+ D68 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183136@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183136@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183136@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,430)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1240,430,1260,450)',
+ SECTION='';
+
+PART_NAME
+ D69 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183694@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183694@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183694@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,570)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,570,330,590)',
+ SECTION='';
+
+PART_NAME
+ D7 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178083@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178083@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178083@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,140)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,140,870,160)',
+ SECTION='';
+
+PART_NAME
+ D70 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183710@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183710@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183710@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,570)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(430,570,450,590)',
+ SECTION='';
+
+PART_NAME
+ D71 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183726@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183726@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183726@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,570)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(540,570,560,590)',
+ SECTION='';
+
+PART_NAME
+ D72 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183742@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183742@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183742@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,570)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,570,680,590)',
+ SECTION='';
+
+PART_NAME
+ D73 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183774@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183774@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183774@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,570)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,570,910,590)',
+ SECTION='';
+
+PART_NAME
+ D74 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183790@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183790@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183790@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,570)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,570,1020,590)',
+ SECTION='';
+
+PART_NAME
+ D75 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183806@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183806@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183806@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,570)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1120,570,1140,590)',
+ SECTION='';
+
+PART_NAME
+ D76 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS183822@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins183822@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins183822@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,570)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1240,570,1260,590)',
+ SECTION='';
+
+PART_NAME
+ D77 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS184389@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins184389@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins184389@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,690)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,690,330,710)',
+ SECTION='';
+
+PART_NAME
+ D78 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS184405@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins184405@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins184405@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,690)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(430,690,450,710)',
+ SECTION='';
+
+PART_NAME
+ D79 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS184437@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins184437@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins184437@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,690)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,690,680,710)',
+ SECTION='';
+
+PART_NAME
+ D8 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178161@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178161@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178161@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(970,140)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(970,140,990,160)',
+ SECTION='';
+
+PART_NAME
+ D80 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS184469@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins184469@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins184469@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,690)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,690,910,710)',
+ SECTION='';
+
+PART_NAME
+ D81 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS184485@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins184485@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins184485@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,690)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,690,1020,710)',
+ SECTION='';
+
+PART_NAME
+ D82 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS184501@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins184501@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins184501@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,690)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1120,690,1140,710)',
+ SECTION='';
+
+PART_NAME
+ D83 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185093@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185093@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185093@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,850)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,850,330,870)',
+ SECTION='';
+
+PART_NAME
+ D84 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185141@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185141@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185141@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,850)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,850,680,870)',
+ SECTION='';
+
+PART_NAME
+ D85 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185173@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185173@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185173@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,850)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,850,910,870)',
+ SECTION='';
+
+PART_NAME
+ D86 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185189@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185189@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185189@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,850)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,850,1020,870)',
+ SECTION='';
+
+PART_NAME
+ D87 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185205@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185205@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185205@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,850)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1120,850,1140,870)',
+ SECTION='';
+
+PART_NAME
+ D88 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185221@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185221@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185221@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,850)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1240,850,1260,870)',
+ SECTION='';
+
+PART_NAME
+ D89 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185806@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185806@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185806@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,960)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,960,330,980)',
+ SECTION='';
+
+PART_NAME
+ D9 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS178240@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins178240@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins178240@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1090,140)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1090,140,1110,160)',
+ SECTION='';
+
+PART_NAME
+ D90 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185822@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185822@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185822@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,960)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(430,960,450,980)',
+ SECTION='';
+
+PART_NAME
+ D91 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185838@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185838@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185838@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,960)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(540,960,560,980)',
+ SECTION='';
+
+PART_NAME
+ D92 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185854@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185854@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185854@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,960)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,960,680,980)',
+ SECTION='';
+
+PART_NAME
+ D93 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185870@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185870@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185870@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,960)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(770,960,790,980)',
+ SECTION='';
+
+PART_NAME
+ D94 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185886@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185886@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185886@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,960)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,960,910,980)',
+ SECTION='';
+
+PART_NAME
+ D95 '1N4148W_SODFL3816X120N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS185918@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins185918@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins185918@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,960)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1120,960,1140,980)',
+ SECTION='';
+
+PART_NAME
+ D96 'SS14M_SODFL2512X73N_SS14M':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS96626@SS14M.SS14M.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins96626@ss14m.\ss14m.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins96626@ss14m.\ss14m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,50)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(260,50,280,70)',
+ SECTION='';
+
+PART_NAME
+ D97 'SML-D12U1WT86_LED_SML-D12U1WT86_RED':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS98308@SML-D12U1WT86.SML-D12U1WT86.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins98308@\sml-d12u1wt86\.\sml-d12u1wt86.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins98308@\sml-d12u1wt86\.\sml-d12u1wt86.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,110)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,110,810,140)',
+ SECTION='';
+
+PART_NAME
+ D98 'LED_WL-SMCW_0603_BLUE':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS99131@WL-SMCW_0603.LED.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins99131@\wl-smcw_0603\.\led.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins99131@\wl-smcw_0603\.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,570)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(560,570,590,600)',
+ SECTION='';
+
+PART_NAME
+ DS1 'NHD-0216XZ-FSW-GBW_0_NHD-0216XZ-FSW-GBW_NHD-0216XZ-FSW-GBW':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS205008@CUSTOMWIRELESSKEYBOARD.NHD-0216XZ-FSW-GBW_0.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins205008@customwirelesskeyboard.\nhd-0216xz-fsw-gbw_0.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page4_ins205008@customwirelesskeyboard.\nhd-0216xz-fsw-gbw_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,790)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(730,790,800,900)',
+ SECTION='';
+
+PART_NAME
+ IC1 'ISP1807-LR-RS_ISP1807LRRS_ISP1807-LR-RS':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS22206@ISP1807-LR-RS.ISP1807-LR-RS.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins22206@\isp1807-lr-rs\.\isp1807-lr-rs.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page1_ins22206@\isp1807-lr-rs\.\isp1807-lr-rs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(250,220)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(250,220,440,620)',
+ SECTION='';
+
+PART_NAME
+ IC2 'DW01A-G_SOT95P190X145-6N_DW01A-G':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS96120@DW01A-G.DW01A-G.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins96120@\dw01a-g\.\dw01a-g.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins96120@\dw01a-g\.\dw01a-g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1000,80)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1000,80,1060,120)',
+ SECTION='';
+
+PART_NAME
+ IC3 'TLV75533PDRVR_SON65P200X200X80-7N_TLV75533PDRVR':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS220328@TLV75533PDRVR.TLV75533PDRVR.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins220328@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins220328@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,530)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1140,530,1220,600)',
+ SECTION='';
+
+PART_NAME
+ J1 'SMC-1-05-1-GT_SMC1051GT_SMC-1-05-1-GT':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS26009@SMC-1-05-1-GT.SMC-1-05-1-GT.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins26009@\smc-1-05-1-gt\.\smc-1-05-1-gt.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page1_ins26009@\smc-1-05-1-gt\.\smc-1-05-1-gt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,970)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(610,970,650,1030)',
+ SECTION='';
+
+PART_NAME
+ J2 'USB4085-GF-A_REVB_1_GCT_USB4085-GF-A_REVB_USB4085-GF-A_REVB':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS96662@CUSTOM_KEYBOARD.USB4085-GF-A_REVB_1.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins96662@custom_keyboard.\usb4085-gf-a_revb_1.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins96662@custom_keyboard.\usb4085-gf-a_revb_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,80)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(290,80,350,310)',
+ SECTION='';
+
+PART_NAME
+ J3 '1778764_CONN_1778764_CONN_2P_1':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS100126@277-2315-1-ND.1778764.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins100126@\277-2315-1-nd\.\1778764.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins100126@\277-2315-1-nd\.\1778764.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1450,100)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1450,100,1480,130)',
+ SECTION='';
+
+PART_NAME
+ J4 'MTLW-101-07-G-S-280_SAMTEC_MTLW-101-07-G-S-280_MTLW-101-07-G-S-280':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS101898@MTLW-101-07-G-S-280.MTLW-101-07-G-S-280.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins101898@\mtlw-101-07-g-s-280\.\mtlw-101-07-g-s-280.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins101898@\mtlw-101-07-g-s-280\.\mtlw-101-07-g-s-280.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(710,400,770,420)',
+ SECTION='';
+
+PART_NAME
+ LED1 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78118@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78118@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78118@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,200)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(820,200,920,250)',
+ SECTION='';
+
+PART_NAME
+ LED10 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78886@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78886@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78886@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,560)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(810,560,910,610)',
+ SECTION='';
+
+PART_NAME
+ LED11 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78906@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78906@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78906@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,560)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,560,1210,610)',
+ SECTION='';
+
+PART_NAME
+ LED12 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS79178@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins79178@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins79178@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,710)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,710,610,760)',
+ SECTION='';
+
+PART_NAME
+ LED13 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS79138@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins79138@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins79138@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,700)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(800,700,900,750)',
+ SECTION='';
+
+PART_NAME
+ LED14 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS79158@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins79158@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins79158@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1100,700)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1100,700,1200,750)',
+ SECTION='';
+
+PART_NAME
+ LED15 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS79364@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins79364@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins79364@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,850)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(510,850,610,900)',
+ SECTION='';
+
+PART_NAME
+ LED16 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS79400@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins79400@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins79400@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,860)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,860,840,910)',
+ SECTION='';
+
+PART_NAME
+ LED2 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78138@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78138@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78138@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1060,200)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1060,200,1160,250)',
+ SECTION='';
+
+PART_NAME
+ LED3 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78434@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78434@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78434@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(540,320,640,370)',
+ SECTION='';
+
+PART_NAME
+ LED4 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78378@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78378@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78378@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(770,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(770,310,870,360)',
+ SECTION='';
+
+PART_NAME
+ LED5 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78414@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78414@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78414@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1070,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1070,310,1170,360)',
+ SECTION='';
+
+PART_NAME
+ LED6 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78674@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78674@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78674@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,440)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(490,440,590,490)',
+ SECTION='';
+
+PART_NAME
+ LED7 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78634@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78634@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78634@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,430)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,430,880,480)',
+ SECTION='';
+
+PART_NAME
+ LED8 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78654@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78654@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78654@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1080,430)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1080,430,1180,480)',
+ SECTION='';
+
+PART_NAME
+ LED9 'XL-5050RGBC-WS2812B_XL-5050RGBC_XLG-L_XL-5050RGBC-WS2812B_(XL-5050RGBC_XLG,XL-5050RGBC_XLG-M)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78926@5962-XL-5050RGBC-WS2812BTR-ND.XL-5050RGBC-WS2812B.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78926@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78926@\5962-xl-5050rgbc-ws2812btr-nd\.\xl-5050rgbc-ws2812b.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,570)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(520,570,620,620)',
+ SECTION='';
+
+PART_NAME
+ M1 'MOUNT_MNT_2P5MM_MOUNT':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS22584@CUSTOM_KEYBOARD_PARTS.MOUNT.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins22584@custom_keyboard_parts.\mount.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page1_ins22584@custom_keyboard_parts.\mount.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,1020)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(20,1020,40,1040)',
+ SECTION='';
+
+PART_NAME
+ M2 'MOUNT_MNT_2P5MM_MOUNT':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS22598@CUSTOM_KEYBOARD_PARTS.MOUNT.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins22598@custom_keyboard_parts.\mount.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page1_ins22598@custom_keyboard_parts.\mount.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,1020)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(60,1020,80,1040)',
+ SECTION='';
+
+PART_NAME
+ M3 'MOUNT_MNT_2P5MM_MOUNT':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS22612@CUSTOM_KEYBOARD_PARTS.MOUNT.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins22612@custom_keyboard_parts.\mount.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page1_ins22612@custom_keyboard_parts.\mount.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,1020)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(100,1020,120,1040)',
+ SECTION='';
+
+PART_NAME
+ M4 'MOUNT_MNT_2P5MM_MOUNT':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS22626@CUSTOM_KEYBOARD_PARTS.MOUNT.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins22626@custom_keyboard_parts.\mount.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page1_ins22626@custom_keyboard_parts.\mount.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,1020)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(140,1020,160,1040)',
+ SECTION='';
+
+PART_NAME
+ Q1 'NX7002AK,215_SOT95P230X110-3N_NX7002AK_215':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS76490@NX7002AK,215.NX7002AK,215.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins76490@\nx7002ak,215\.\nx7002ak,215.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page4_ins76490@\nx7002ak,215\.\nx7002ak,215.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,970)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,970,880,1010)',
+ SECTION='';
+
+PART_NAME
+ Q2 'NX7002AK,215_SOT95P230X110-3N_NX7002AK_215':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78166@NX7002AK,215.NX7002AK,215.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78166@\nx7002ak,215\.\nx7002ak,215.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78166@\nx7002ak,215\.\nx7002ak,215.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,220)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,220,600,250)',
+ SECTION='';
+
+PART_NAME
+ Q3 'FS8205A_SOP65P640X120-8N_FS8205A':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS102316@FS8205A.FS8205A.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins102316@fs8205a.\fs8205a.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins102316@fs8205a.\fs8205a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1010,360)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1010,360,1090,410)',
+ SECTION='';
+
+PART_NAME
+ R1 '3361S-1-103GLF_TRIM_3361S-1-103GLF_10K':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS131708@3361S-1-103GLF.3361S-1-103GLF.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins131708@\3361s-1-103glf\.\3361s-1-103glf.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page4_ins131708@\3361s-1-103glf\.\3361s-1-103glf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1120,840)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1120,840,1160,860)',
+ SECTION='';
+
+PART_NAME
+ R10 'RCS06035K10JNEA_RESC1508X50N_5.1K':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS96738@RCS06035K10JNEA.RCS06035K10JNEA.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins96738@rcs06035k10jnea.\rcs06035k10jnea.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins96738@rcs06035k10jnea.\rcs06035k10jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(90,110,130,130)',
+ SECTION='';
+
+PART_NAME
+ R11 'CRGCQ0603F2K2_RESC1608X55N_2K2':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS98398@CRGCQ0603F2K2.CRGCQ0603F2K2.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins98398@crgcq0603f2k2.\crgcq0603f2k2.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins98398@crgcq0603f2k2.\crgcq0603f2k2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,170)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,170,800,210)',
+ SECTION='';
+
+PART_NAME
+ R12 'CRG0603F4K7_RESC1608X55N_4K7':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS98897@CRG0603F4K7.CRG0603F4K7.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins98897@crg0603f4k7.\crg0603f4k7.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins98897@crg0603f4k7.\crg0603f4k7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,290)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(540,290,580,310)',
+ SECTION='';
+
+PART_NAME
+ R13 'CRG0603ZR_RESC1608X55N_SMD_JUMPER':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS98536@CRG0603ZR.CRG0603ZR.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins98536@crg0603zr.\crg0603zr.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins98536@crg0603zr.\crg0603zr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,290)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(620,290,660,310)',
+ SECTION='';
+
+PART_NAME
+ R14 'CPF0603B2K49E1_RESC1508X55N_2K49':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS98708@CPF0603B2K49E1.CPF0603B2K49E1.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins98708@cpf0603b2k49e1.\cpf0603b2k49e1.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins98708@cpf0603b2k49e1.\cpf0603b2k49e1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,350)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(530,350,570,370)',
+ SECTION='';
+
+PART_NAME
+ R15 'CRG0603ZR_RESC1608X55N_SMD_JUMPER':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS98552@CRG0603ZR.CRG0603ZR.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins98552@crg0603zr.\crg0603zr.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins98552@crg0603zr.\crg0603zr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,350)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(620,350,660,370)',
+ SECTION='';
+
+PART_NAME
+ R16 'CRG0603ZR_RESC1608X55N_SMD_JUMPER':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS99062@CRG0603ZR.CRG0603ZR.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins99062@crg0603zr.\crg0603zr.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins99062@crg0603zr.\crg0603zr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,580)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,580,430,600)',
+ SECTION='';
+
+PART_NAME
+ R17 'CRGCQ0603F2K2_RESC1608X55N_2K2':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS99104@CRGCQ0603F2K2.CRGCQ0603F2K2.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins99104@crgcq0603f2k2.\crgcq0603f2k2.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins99104@crgcq0603f2k2.\crgcq0603f2k2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,580)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(470,580,510,600)',
+ SECTION='';
+
+PART_NAME
+ R2 'RCS060310K0JNEA_RESC1508X50N_10K':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS76364@RCS060310K0JNEA.RCS060310K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins76364@rcs060310k0jnea.\rcs060310k0jnea.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page4_ins76364@rcs060310k0jnea.\rcs060310k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,870)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(90,870,110,910)',
+ SECTION='';
+
+PART_NAME
+ R3 'RCS060310K0JNEA_RESC1508X50N_10K':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS76398@RCS060310K0JNEA.RCS060310K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins76398@rcs060310k0jnea.\rcs060310k0jnea.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page4_ins76398@rcs060310k0jnea.\rcs060310k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,890)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(150,890,170,930)',
+ SECTION='';
+
+PART_NAME
+ R4 'RCS060310K0JNEA_RESC1508X50N_10K':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS76532@RCS060310K0JNEA.RCS060310K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins76532@rcs060310k0jnea.\rcs060310k0jnea.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page4_ins76532@rcs060310k0jnea.\rcs060310k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,1000)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,1000,760,1040)',
+ SECTION='';
+
+PART_NAME
+ R5 'RCS060310K0JNEA_RESC1508X50N_10K':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78054@RCS060310K0JNEA.RCS060310K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78054@rcs060310k0jnea.\rcs060310k0jnea.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78054@rcs060310k0jnea.\rcs060310k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(480,180)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(480,180,500,220)',
+ SECTION='';
+
+PART_NAME
+ R6 'RCS060310K0JNEA_RESC1508X50N_10K':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS78070@RCS060310K0JNEA.RCS060310K0JNEA.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins78070@rcs060310k0jnea.\rcs060310k0jnea.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page5_ins78070@rcs060310k0jnea.\rcs060310k0jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(660,180)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(660,180,680,220)',
+ SECTION='';
+
+PART_NAME
+ R7 'RCS06035K10JNEA_RESC1508X50N_5.1K':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS96642@RCS06035K10JNEA.RCS06035K10JNEA.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins96642@rcs06035k10jnea.\rcs06035k10jnea.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins96642@rcs06035k10jnea.\rcs06035k10jnea.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,80)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(90,80,130,100)',
+ SECTION='';
+
+PART_NAME
+ R8 'CRGCQ0603J1K0_RESC1608X55N_1K_(RESC1608X55N)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS99473@CRGCQ0603J1K0.CRGCQ0603J1K0.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins99473@crgcq0603j1k0.\crgcq0603j1k0.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins99473@crgcq0603j1k0.\crgcq0603j1k0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(900,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(900,90,940,110)',
+ SECTION='';
+
+PART_NAME
+ R9 'CRG0603J100R_RESC1608X55N_100R':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS99373@CRG0603J100R.CRG0603J100R.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins99373@crg0603j100r.\crg0603j100r.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins99373@crg0603j100r.\crg0603j100r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,90)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1140,90,1180,110)',
+ SECTION='';
+
+PART_NAME
+ S1 'MX1A-11NN_MX-SERIES-SW-1-POLE_ESC_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193150@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193150@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193150@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(180,110,220,140)',
+ SECTION='';
+
+PART_NAME
+ S10 'MX1A-11NN_MX-SERIES-SW-1-POLE_F9_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193740@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193740@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193740@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,110,1270,140)',
+ SECTION='';
+
+PART_NAME
+ S11 'MX1A-11NN_MX-SERIES-SW-1-POLE_`_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194151@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194151@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194151@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(180,250,220,280)',
+ SECTION='';
+
+PART_NAME
+ S12 'MX1A-11NN_MX-SERIES-SW-1-POLE_1_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194111@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194111@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194111@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,250,340,280)',
+ SECTION='';
+
+PART_NAME
+ S13 'MX1A-11NN_MX-SERIES-SW-1-POLE_2_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194071@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194071@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194071@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,250,450,280)',
+ SECTION='';
+
+PART_NAME
+ S14 'MX1A-11NN_MX-SERIES-SW-1-POLE_3_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194031@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194031@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194031@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(530,250,570,280)',
+ SECTION='';
+
+PART_NAME
+ S15 'MX1A-11NN_MX-SERIES-SW-1-POLE_4_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193991@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193991@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193991@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,250,680,280)',
+ SECTION='';
+
+PART_NAME
+ S16 'MX1A-11NN_MX-SERIES-SW-1-POLE_5_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193951@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193951@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193951@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,250,800,280)',
+ SECTION='';
+
+PART_NAME
+ S17 'MX1A-11NN_MX-SERIES-SW-1-POLE_6_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193911@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193911@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193911@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,250,910,280)',
+ SECTION='';
+
+PART_NAME
+ S18 'MX1A-11NN_MX-SERIES-SW-1-POLE_7_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193871@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193871@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193871@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(990,250,1030,280)',
+ SECTION='';
+
+PART_NAME
+ S19 'MX1A-11NN_MX-SERIES-SW-1-POLE_8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193831@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193831@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193831@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,250,1150,280)',
+ SECTION='';
+
+PART_NAME
+ S2 'MX1A-11NN_MX-SERIES-SW-1-POLE_F1_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193414@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193414@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193414@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,110,340,140)',
+ SECTION='';
+
+PART_NAME
+ S20 'MX1A-11NN_MX-SERIES-SW-1-POLE_9_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS196185@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins196185@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins196185@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,250)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,250,1270,280)',
+ SECTION='';
+
+PART_NAME
+ S21 'MX1A-11NN_MX-SERIES-SW-1-POLE_TAB_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194407@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194407@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194407@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(180,390,220,420)',
+ SECTION='';
+
+PART_NAME
+ S22 'MX1A-11NN_MX-SERIES-SW-1-POLE_Q_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194425@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194425@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194425@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,390,340,420)',
+ SECTION='';
+
+PART_NAME
+ S23 'MX1A-11NN_MX-SERIES-SW-1-POLE_W_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194443@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194443@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194443@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,390,450,420)',
+ SECTION='';
+
+PART_NAME
+ S24 'MX1A-11NN_MX-SERIES-SW-1-POLE_E_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194461@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194461@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194461@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(530,390,570,420)',
+ SECTION='';
+
+PART_NAME
+ S25 'MX1A-11NN_MX-SERIES-SW-1-POLE_R_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194479@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194479@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194479@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,390,680,420)',
+ SECTION='';
+
+PART_NAME
+ S26 'MX1A-11NN_MX-SERIES-SW-1-POLE_T_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194497@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194497@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194497@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,390,800,420)',
+ SECTION='';
+
+PART_NAME
+ S27 'MX1A-11NN_MX-SERIES-SW-1-POLE_Y_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194515@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194515@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194515@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,390,910,420)',
+ SECTION='';
+
+PART_NAME
+ S28 'MX1A-11NN_MX-SERIES-SW-1-POLE_U_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194533@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194533@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194533@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(990,390,1030,420)',
+ SECTION='';
+
+PART_NAME
+ S29 'MX1A-11NN_MX-SERIES-SW-1-POLE_I_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194551@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194551@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194551@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,390,1150,420)',
+ SECTION='';
+
+PART_NAME
+ S3 'MX1A-11NN_MX-SERIES-SW-1-POLE_F2_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193467@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193467@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193467@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,110,450,140)',
+ SECTION='';
+
+PART_NAME
+ S30 'MX1A-11NN_MX-SERIES-SW-1-POLE_O_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194569@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194569@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194569@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,390)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,390,1270,420)',
+ SECTION='';
+
+PART_NAME
+ S31 'MX1A-11NN_MX-SERIES-SW-1-POLE_CAPS_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194587@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194587@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194587@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(180,510,220,540)',
+ SECTION='';
+
+PART_NAME
+ S32 'MX1A-11NN_MX-SERIES-SW-1-POLE_A_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194605@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194605@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194605@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,510,340,540)',
+ SECTION='';
+
+PART_NAME
+ S33 'MX1A-11NN_MX-SERIES-SW-1-POLE_S_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194623@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194623@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194623@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,510,450,540)',
+ SECTION='';
+
+PART_NAME
+ S34 'MX1A-11NN_MX-SERIES-SW-1-POLE_D_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194641@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194641@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194641@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(530,510,570,540)',
+ SECTION='';
+
+PART_NAME
+ S35 'MX1A-11NN_MX-SERIES-SW-1-POLE_F_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194659@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194659@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194659@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,510,680,540)',
+ SECTION='';
+
+PART_NAME
+ S36 'MX1A-11NN_MX-SERIES-SW-1-POLE_G_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194677@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194677@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194677@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,510,800,540)',
+ SECTION='';
+
+PART_NAME
+ S37 'MX1A-11NN_MX-SERIES-SW-1-POLE_H_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194695@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194695@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194695@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,510,910,540)',
+ SECTION='';
+
+PART_NAME
+ S38 'MX1A-11NN_MX-SERIES-SW-1-POLE_J_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194713@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194713@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194713@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(990,510,1030,540)',
+ SECTION='';
+
+PART_NAME
+ S39 'MX1A-11NN_MX-SERIES-SW-1-POLE_K_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS194731@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins194731@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins194731@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,510,1150,540)',
+ SECTION='';
+
+PART_NAME
+ S4 'MX1A-11NN_MX-SERIES-SW-1-POLE_F3_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193506@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193506@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193506@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(530,110,570,140)',
+ SECTION='';
+
+PART_NAME
+ S40 'MX1A-11NN_MX-SERIES-SW-1-POLE_L_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195932@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195932@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195932@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,510)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,510,1270,540)',
+ SECTION='';
+
+PART_NAME
+ S41 'MX1A-11NN_MX-SERIES-SW-1-POLE_SHIFT_L_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195112@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195112@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195112@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(180,670,220,700)',
+ SECTION='';
+
+PART_NAME
+ S42 'MX1A-11NN_MX-SERIES-SW-1-POLE_Z_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195130@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195130@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195130@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,670,340,700)',
+ SECTION='';
+
+PART_NAME
+ S43 'MX1A-11NN_MX-SERIES-SW-1-POLE_X_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195148@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195148@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195148@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,670,450,700)',
+ SECTION='';
+
+PART_NAME
+ S44 'MX1A-11NN_MX-SERIES-SW-1-POLE_C_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195166@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195166@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195166@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(530,670,570,700)',
+ SECTION='';
+
+PART_NAME
+ S45 'MX1A-11NN_MX-SERIES-SW-1-POLE_V_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195184@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195184@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195184@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,670,680,700)',
+ SECTION='';
+
+PART_NAME
+ S46 'MX1A-11NN_MX-SERIES-SW-1-POLE_B_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195202@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195202@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195202@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,670,800,700)',
+ SECTION='';
+
+PART_NAME
+ S47 'MX1A-11NN_MX-SERIES-SW-1-POLE_N_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195220@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195220@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195220@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,670,910,700)',
+ SECTION='';
+
+PART_NAME
+ S48 'MX1A-11NN_MX-SERIES-SW-1-POLE_M_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195238@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195238@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195238@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(990,670,1030,700)',
+ SECTION='';
+
+PART_NAME
+ S49 'MX1A-11NN_MX-SERIES-SW-1-POLE_<_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195256@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195256@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195256@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,670,1150,700)',
+ SECTION='';
+
+PART_NAME
+ S5 'MX1A-11NN_MX-SERIES-SW-1-POLE_F4_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193545@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193545@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193545@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(640,110,680,140)',
+ SECTION='';
+
+PART_NAME
+ S50 'MX1A-11NN_MX-SERIES-SW-1-POLE_>_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195274@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195274@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195274@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,670)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,670,1270,700)',
+ SECTION='';
+
+PART_NAME
+ S51 'MX1A-11NN_MX-SERIES-SW-1-POLE_CTRL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195292@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195292@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195292@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(180,780)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(180,780,220,810)',
+ SECTION='';
+
+PART_NAME
+ S52 'MX1A-11NN_MX-SERIES-SW-1-POLE_FN_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195310@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195310@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195310@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,780)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,780,340,810)',
+ SECTION='';
+
+PART_NAME
+ S53 'MX1A-11NN_MX-SERIES-SW-1-POLE_WNDS_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195328@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195328@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195328@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,780)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(410,780,450,810)',
+ SECTION='';
+
+PART_NAME
+ S54 'MX1A-11NN_MX-SERIES-SW-1-POLE_ALT_L_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195346@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195346@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195346@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,780)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(530,780,570,810)',
+ SECTION='';
+
+PART_NAME
+ S55 'MX1A-11NN_MX-SERIES-SW-1-POLE_SPACE_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195400@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195400@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195400@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,780)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,780,910,810)',
+ SECTION='';
+
+PART_NAME
+ S56 'MX1A-11NN_MX-SERIES-SW-1-POLE_ALT_R_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS195612@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins195612@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins195612@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1230,780)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1230,780,1270,810)',
+ SECTION='';
+
+PART_NAME
+ S57 'MX1A-11NN_MX-SERIES-SW-1-POLE_F10_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199372@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199372@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199372@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,260,370,290)',
+ SECTION='';
+
+PART_NAME
+ S58 'MX1A-11NN_MX-SERIES-SW-1-POLE_F11_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199416@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199416@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199416@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,260,490,290)',
+ SECTION='';
+
+PART_NAME
+ S59 'MX1A-11NN_MX-SERIES-SW-1-POLE_F12_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199459@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199459@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199459@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,260,600,290)',
+ SECTION='';
+
+PART_NAME
+ S6 'MX1A-11NN_MX-SERIES-SW-1-POLE_F5_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193584@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193584@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193584@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,110,800,140)',
+ SECTION='';
+
+PART_NAME
+ S60 'MX1A-11NN_MX-SERIES-SW-1-POLE_DEL_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199501@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199501@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199501@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(790,260,830,290)',
+ SECTION='';
+
+PART_NAME
+ S61 'MX1A-11NN_MX-SERIES-SW-1-POLE_0_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199203@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199203@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199203@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,400,370,430)',
+ SECTION='';
+
+PART_NAME
+ S62 'MX1A-11NN_MX-SERIES-SW-1-POLE_-_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199246@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199246@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199246@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,400,490,430)',
+ SECTION='';
+
+PART_NAME
+ S63 'MX1A-11NN_MX-SERIES-SW-1-POLE_=_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199288@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199288@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199288@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,400,600,430)',
+ SECTION='';
+
+PART_NAME
+ S64 'MX1A-11NN_MX-SERIES-SW-1-POLE_BACKSPACE_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199329@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199329@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199329@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,400,720,430)',
+ SECTION='';
+
+PART_NAME
+ S65 'MX1A-11NN_MX-SERIES-SW-1-POLE_NUMLOCK_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199695@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199695@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199695@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(910,400,950,430)',
+ SECTION='';
+
+PART_NAME
+ S66 'MX1A-11NN_MX-SERIES-SW-1-POLE_/_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199735@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199735@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199735@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1020,400,1060,430)',
+ SECTION='';
+
+PART_NAME
+ S67 'MX1A-11NN_MX-SERIES-SW-1-POLE_*_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199774@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199774@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199774@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1140,400,1180,430)',
+ SECTION='';
+
+PART_NAME
+ S68 'MX1A-11NN_MX-SERIES-SW-1-POLE_-_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199813@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199813@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199813@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1260,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1260,400,1300,430)',
+ SECTION='';
+
+PART_NAME
+ S69 'MX1A-11NN_MX-SERIES-SW-1-POLE_P_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199120@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199120@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199120@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,540)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,540,370,570)',
+ SECTION='';
+
+PART_NAME
+ S7 'MX1A-11NN_MX-SERIES-SW-1-POLE_F6_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193623@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193623@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193623@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(870,110,910,140)',
+ SECTION='';
+
+PART_NAME
+ S70 'MX1A-11NN_MX-SERIES-SW-1-POLE_[_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS198999@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins198999@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins198999@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,540)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,540,490,570)',
+ SECTION='';
+
+PART_NAME
+ S71 'MX1A-11NN_MX-SERIES-SW-1-POLE_]_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS198959@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins198959@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins198959@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,540)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,540,600,570)',
+ SECTION='';
+
+PART_NAME
+ S72 'MX1A-11NN_MX-SERIES-SW-1-POLE_\_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS198917@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins198917@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins198917@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,540)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,540,720,570)',
+ SECTION='';
+
+PART_NAME
+ S73 'MX1A-11NN_MX-SERIES-SW-1-POLE_7_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199972@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199972@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199972@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,540)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(910,540,950,570)',
+ SECTION='';
+
+PART_NAME
+ S74 'MX1A-11NN_MX-SERIES-SW-1-POLE_8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199932@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199932@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199932@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,540)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1020,540,1060,570)',
+ SECTION='';
+
+PART_NAME
+ S75 'MX1A-11NN_MX-SERIES-SW-1-POLE_9_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199892@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199892@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199892@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,540)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1140,540,1180,570)',
+ SECTION='';
+
+PART_NAME
+ S76 'MX1A-11NN_MX-SERIES-SW-1-POLE_+_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199852@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199852@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199852@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1260,540)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1260,540,1300,570)',
+ SECTION='';
+
+PART_NAME
+ S77 'MX1A-11NN_MX-SERIES-SW-1-POLE_;_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199080@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199080@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199080@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,660)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,660,370,690)',
+ SECTION='';
+
+PART_NAME
+ S78 'MX1A-11NN_MX-SERIES-SW-1-POLE_"_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199039@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199039@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199039@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,660)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,660,490,690)',
+ SECTION='';
+
+PART_NAME
+ S79 'MX1A-11NN_MX-SERIES-SW-1-POLE_ENTER_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS198876@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins198876@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins198876@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,660)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,660,720,690)',
+ SECTION='';
+
+PART_NAME
+ S8 'MX1A-11NN_MX-SERIES-SW-1-POLE_F7_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193662@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193662@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193662@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(990,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(990,110,1030,140)',
+ SECTION='';
+
+PART_NAME
+ S80 'MX1A-11NN_MX-SERIES-SW-1-POLE_4_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS200013@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins200013@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins200013@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,660)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(910,660,950,690)',
+ SECTION='';
+
+PART_NAME
+ S81 'MX1A-11NN_MX-SERIES-SW-1-POLE_5_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS200055@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins200055@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins200055@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,660)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1020,660,1060,690)',
+ SECTION='';
+
+PART_NAME
+ S82 'MX1A-11NN_MX-SERIES-SW-1-POLE_6_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS200096@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins200096@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins200096@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,660)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1140,660,1180,690)',
+ SECTION='';
+
+PART_NAME
+ S83 'MX1A-11NN_MX-SERIES-SW-1-POLE_?_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS199161@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins199161@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins199161@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,820,370,850)',
+ SECTION='';
+
+PART_NAME
+ S84 'MX1A-11NN_MX-SERIES-SW-1-POLE_SHIFT_R_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS198836@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins198836@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins198836@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,820,720,850)',
+ SECTION='';
+
+PART_NAME
+ S85 'MX1A-11NN_MX-SERIES-SW-1-POLE_1_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS200137@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins200137@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins200137@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(910,820,950,850)',
+ SECTION='';
+
+PART_NAME
+ S86 'MX1A-11NN_MX-SERIES-SW-1-POLE_2_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS200180@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins200180@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins200180@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1020,820,1060,850)',
+ SECTION='';
+
+PART_NAME
+ S87 'MX1A-11NN_MX-SERIES-SW-1-POLE_3_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS200222@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins200222@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins200222@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1140,820,1180,850)',
+ SECTION='';
+
+PART_NAME
+ S88 'MX1A-11NN_MX-SERIES-SW-1-POLE_ENTER_V_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS200264@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins200264@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins200264@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1260,820)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1260,820,1300,850)',
+ SECTION='';
+
+PART_NAME
+ S89 'MX1A-11NN_MX-SERIES-SW-1-POLE_CTRL_R_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS198641@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins198641@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins198641@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,930,370,960)',
+ SECTION='';
+
+PART_NAME
+ S9 'MX1A-11NN_MX-SERIES-SW-1-POLE_F8_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS193701@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins193701@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page2_ins193701@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1110,110)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1110,110,1150,140)',
+ SECTION='';
+
+PART_NAME
+ S90 'MX1A-11NN_MX-SERIES-SW-1-POLE_LEFT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS198680@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins198680@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins198680@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,930,490,960)',
+ SECTION='';
+
+PART_NAME
+ S91 'MX1A-11NN_MX-SERIES-SW-1-POLE_DOWN_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS198719@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins198719@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins198719@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(560,930,600,960)',
+ SECTION='';
+
+PART_NAME
+ S92 'MX1A-11NN_MX-SERIES-SW-1-POLE_UP_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS198758@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins198758@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins198758@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(680,930,720,960)',
+ SECTION='';
+
+PART_NAME
+ S93 'MX1A-11NN_MX-SERIES-SW-1-POLE_RIGHT_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS198797@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins198797@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins198797@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(790,930,830,960)',
+ SECTION='';
+
+PART_NAME
+ S94 'MX1A-11NN_MX-SERIES-SW-1-POLE_0_(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS200305@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins200305@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins200305@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(910,930,950,960)',
+ SECTION='';
+
+PART_NAME
+ S95 'MX1A-11NN_MX-SERIES-SW-1-POLE_._(MX-SERIES-SW-1-POLE-1P5U,MX-SERIES-SW-1-POLE-1P75U,MX-SERIES-SW-1-POLE-2P25U,MX-SERIES-SW-1-POLE-2U,MX-SERIES-SW-1-POLE-2U-VERT,MX-SERIES-SW-1-POLE-6P25U)':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS200349@MX1A11NN.MX1A-11NN.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins200349@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page3_ins200349@mx1a11nn.\mx1a-11nn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1140,930)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1140,930,1180,960)',
+ SECTION='';
+
+PART_NAME
+ U1 'PCF8574ADWR_1_SOIC127P1030X265-16N_PCF8574ADWR':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS76142@CUSTOM_KEYBOARD.PCF8574ADWR_1.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins76142@custom_keyboard.\pcf8574adwr_1.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page4_ins76142@custom_keyboard.\pcf8574adwr_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,780)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(260,780,360,960)',
+ SECTION='';
+
+PART_NAME
+ U2 'TP4056_SOP127P600X175-9N_TP4056':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS103292@TP4056.TP4056.NORMAL(CHIPS)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins103292@tp4056.\tp4056.normal\(chips)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins103292@tp4056.\tp4056.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,60)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(550,60,650,160)',
+ SECTION='';
+
+PART_NAME
+ U3 'LDK120C35R_0_SOT323-5L_1P35X2P2X0P65_STM_5_LDK120C08R':;
+
+SECTION_NUMBER 1
+ '@CUSTOMWIRELESSKEYBOARD.SCHEMATIC1(SCH_1):INS101513@CUSTOM_KEYBOARD.LDK120C35R_0.NORMAL(SCH_1)':
+ C_PATH='@customwirelesskeyboard.schematic1(sch_1):ins101513@custom_keyboard.\ldk120c35r_0.normal\(sch_1)',
+ P_PATH='@customwirelesskeyboard.schematic1(sch_1):page6_ins101513@custom_keyboard.\ldk120c35r_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1130,910)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1130,910,1220,980)',
+ SECTION='';
+
+END.

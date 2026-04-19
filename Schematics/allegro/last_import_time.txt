@@ -1,0 +1,4 @@
+2026-01-24T19:24:31 ===> "c:/users/lonewolf/desktop/custom wireless keyboard/schematics/allegro/pstchip.dat"
+2026-01-24T19:24:31 ===> "c:/users/lonewolf/desktop/custom wireless keyboard/schematics/allegro/pstxnet.dat"
+2026-01-24T19:24:31 ===> "c:/users/lonewolf/desktop/custom wireless keyboard/schematics/allegro/pstxprt.dat"
+2026-01-24T19:24:31 ===> "c:/users/lonewolf/desktop/custom wireless keyboard/schematics/allegro/pstdmlmodels.dat"
