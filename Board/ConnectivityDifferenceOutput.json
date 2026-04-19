@@ -1,0 +1,55 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "U4",
+			"C_PATH" : "@customwirelesskeyboard.schematic1(sch_1):ins219462@\\296-51807-2-nd\\.\\tlv75533pdrvr.normal\\(sch_1)",
+			"Logical" : null,
+			"Physical" : "U4"
+		},
+		{
+			"Name" : "IC3",
+			"C_PATH" : "@customwirelesskeyboard.schematic1(sch_1):ins220328@tlv75533pdrvr.\\tlv75533pdrvr.normal\\(chips)",
+			"Logical" : "IC3",
+			"Physical" : null
+		}
+	],
+	"Net" : [],
+	"Connection" : [
+		{
+			"Name" : "IC3.6",
+			"C_PATH" : "@customwirelesskeyboard.schematic1(sch_1):ins220328@tlv75533pdrvr.\\tlv75533pdrvr.normal\\(chips):\\in\\",
+			"Logical" : "VBAT",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC3.4",
+			"C_PATH" : "@customwirelesskeyboard.schematic1(sch_1):ins220328@tlv75533pdrvr.\\tlv75533pdrvr.normal\\(chips):EN",
+			"Logical" : "VBAT",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC3.1",
+			"C_PATH" : "@customwirelesskeyboard.schematic1(sch_1):ins220328@tlv75533pdrvr.\\tlv75533pdrvr.normal\\(chips):\\out\\",
+			"Logical" : "+3V3",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC3.3",
+			"C_PATH" : "@customwirelesskeyboard.schematic1(sch_1):ins220328@tlv75533pdrvr.\\tlv75533pdrvr.normal\\(chips):GND",
+			"Logical" : "GND",
+			"Physical" : null
+		},
+		{
+			"Name" : "IC3.7",
+			"C_PATH" : "@customwirelesskeyboard.schematic1(sch_1):ins220328@tlv75533pdrvr.\\tlv75533pdrvr.normal\\(chips):EPAD",
+			"Logical" : "GND",
+			"Physical" : null
+		}
+	]
+}

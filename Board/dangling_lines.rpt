@@ -1,0 +1,169 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : CustomKeyboard.brd                            )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sun Feb 15 19:04:30 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  GND                  BOTTOM                0.0683     *(336.2538 103.7962) to  (336.2538 103.7279)
+  GND                  BOTTOM                0.4274      (291.3246 106.3692) to *(291.6268 106.6714)
+  +5V                  TOP                   0.5328     *(290.9913 120.8410) to  (290.9913 121.3738)
+  +5V                  TOP                   0.2460     *(242.1153 121.1182) to  (242.1153 121.3642)
+  +5V                  TOP                   0.0880      (116.9022 121.1274) to *(116.9022 121.0394)
+  +5V                  TOP                   0.0693      (92.8123 121.1274) to *(92.8123 121.0581)
+  +5V                  TOP                   0.1496     *(71.9229 120.9778) to  (71.9229 121.1274)
+  +5V                  TOP                   0.1575      (53.6664 121.1274) to *(53.6664 120.9699)
+  +5V                  TOP                   0.1056     *(33.6423 121.0218) to  (33.6423 121.1274)
+  +3V3                 TOP                   1.7253     *(387.0436 124.4809) to  (387.0436 126.2062)
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  LED_DATA             IC_VIA               (384.6566 120.7938) TOP/BOTTOM 
+  ROW_0                IC_VIA               (387.4936 121.7688) TOP/BOTTOM 
+  ROW_1                IC_VIA               (387.4936 118.5188) TOP/BOTTOM 
+  ROW_2                IC_VIA               (387.4936 119.1688) TOP/BOTTOM 
+  ROW_4                IC_VIA               (387.4936 120.4688) TOP/BOTTOM 
+  SCL                  IC_VIA               (387.0436 117.1068) TOP/BOTTOM 
+  SDA                  IC_VIA               (385.2936 121.1188) TOP/BOTTOM 
+  Dummy Net            IC_VIA               (387.4936 121.1188) TOP/BOTTOM 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  +3V5                 VIA26                (343.7154 106.3692) TOP/BOTTOM 
+  +5V                  VIA                  (296.8812 100.6444) TOP/BOTTOM 
+  +5V                  VIA                  (389.1411 119.9270) TOP/BOTTOM 
+  +5V                  VIA26                (15.5521 121.1274) TOP/BOTTOM 
+  +5V                  VIA26                (33.6423 121.1274) TOP/BOTTOM 
+  +5V                  VIA26                (53.6664 121.1274) TOP/BOTTOM 
+  +5V                  VIA26                (71.9229 121.1274) TOP/BOTTOM 
+  +5V                  VIA26                (92.8123 121.1274) TOP/BOTTOM 
+  +5V                  VIA26                (116.9022 121.1274) TOP/BOTTOM 
+  +5V                  VIA26                (138.6133 121.1274) TOP/BOTTOM 
+  +5V                  VIA26                (157.5968 121.3432) TOP/BOTTOM 
+  +5V                  VIA26                (174.3027 121.3809) TOP/BOTTOM 
+  +5V                  VIA26                (192.4901 121.3614) TOP/BOTTOM 
+  +5V                  VIA26                (209.7709 121.1274) TOP/BOTTOM 
+  +5V                  VIA26                (226.6235 121.3220) TOP/BOTTOM 
+  +5V                  VIA26                (242.1153 121.3642) TOP/BOTTOM 
+  +5V                  VIA26                (259.0223 121.3513) TOP/BOTTOM 
+  +5V                  VIA26                (274.4203 121.3406) TOP/BOTTOM 
+  +5V                  VIA26                (290.9913 121.3738) TOP/BOTTOM 
+  +5V                  VIA26                (307.2006 114.3072) TOP/BOTTOM 
+  +5V                  VIA26                (373.0860 128.5956) TOP/BOTTOM 
+  +5V                  VIA26                (390.5185 106.8566) TOP/BOTTOM 
+  +5V                  VIA26                (392.9310 115.1010) TOP/BOTTOM 
+  0                    VIA26                (272.2734 130.1832) TOP/BOTTOM 
+  0                    VIA26                (334.9836 113.5134) TOP/BOTTOM 
+  0                    VIA26                (343.7154 102.4002) TOP/BOTTOM 
+  GND                  IC_VIA               (384.8566 117.3068) TOP/BOTTOM 
+  GND                  IC_VIA               (384.8566 124.2808) TOP/BOTTOM 
+  GND                  IC_VIA               (387.4936 122.4188) TOP/BOTTOM 
+  GND                  IC_VIA               (387.4936 123.0688) TOP/BOTTOM 
+  GND                  IC_VIA               (387.9436 117.3068) TOP/BOTTOM 
+  GND                  IC_VIA               (387.9436 124.2808) TOP/BOTTOM 
+  GND                  IC_VIA               (388.1436 120.1438) TOP/BOTTOM 
+  GND                  IC_VIA               (388.1436 120.7938) TOP/BOTTOM 
+  GND                  IC_VIA               (388.1436 121.4438) TOP/BOTTOM 
+  GND                  IC_VIA               (388.1436 123.3938) TOP/BOTTOM 
+  GND                  IC_VIA               (388.8936 117.1068) TOP/BOTTOM 
+  GND                  IC_VIA               (388.8936 124.4808) TOP/BOTTOM 
+  GND                  IC_VIA               (389.8936 117.1068) TOP/BOTTOM 
+  GND                  IC_VIA               (389.8936 124.4808) TOP/BOTTOM 
+  GND                  IC_VIA               (390.8936 117.1068) TOP/BOTTOM 
+  GND                  IC_VIA               (390.8936 124.4808) TOP/BOTTOM 
+  GND                  IC_VIA               (391.8306 117.3068) TOP/BOTTOM 
+  GND                  IC_VIA               (391.8306 124.2808) TOP/BOTTOM 
+  GND                  IC_VIA               (392.0306 118.2938) TOP/BOTTOM 
+  GND                  IC_VIA               (392.0306 119.2938) TOP/BOTTOM 
+  GND                  IC_VIA               (392.0306 120.2938) TOP/BOTTOM 
+  GND                  IC_VIA               (392.0306 121.2938) TOP/BOTTOM 
+  GND                  IC_VIA               (392.0306 122.2938) TOP/BOTTOM 
+  GND                  IC_VIA               (392.0306 123.2938) TOP/BOTTOM 
+  GND                  VIA                  (284.9425 110.3699) TOP/BOTTOM 
+  GND                  VIA                  (291.3246 106.3692) TOP/BOTTOM 
+  GND                  VIA26                (10.9436 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (20.8025 124.4992) TOP/BOTTOM 
+  GND                  VIA26                (29.0162 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (40.1846 124.4992) TOP/BOTTOM 
+  GND                  VIA26                (49.0436 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (58.3947 123.8559) TOP/BOTTOM 
+  GND                  VIA26                (67.2998 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (76.6509 123.8559) TOP/BOTTOM 
+  GND                  VIA26                (88.1895 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (99.3579 123.0851) TOP/BOTTOM 
+  GND                  VIA26                (112.2794 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (121.6306 123.8558) TOP/BOTTOM 
+  GND                  VIA26                (133.9905 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (143.1568 124.7258) TOP/BOTTOM 
+  GND                  VIA26                (152.9740 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (162.0304 124.7258) TOP/BOTTOM 
+  GND                  VIA26                (169.6799 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (178.6723 124.6266) TOP/BOTTOM 
+  GND                  VIA26                (187.8673 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (197.7872 124.6266) TOP/BOTTOM 
+  GND                  VIA26                (205.1481 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (214.3933 124.6266) TOP/BOTTOM 
+  GND                  VIA26                (222.0007 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (232.1493 124.6266) TOP/BOTTOM 
+  GND                  VIA26                (237.4925 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (246.8437 124.6266) TOP/BOTTOM 
+  GND                  VIA26                (254.3995 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (263.7507 123.8558) TOP/BOTTOM 
+  GND                  VIA26                (267.9897 125.0816) TOP/BOTTOM 
+  GND                  VIA26                (279.7482 123.8328) TOP/BOTTOM 
+  GND                  VIA26                (286.3685 127.1029) TOP/BOTTOM 
+  GND                  VIA26                (295.7197 123.8559) TOP/BOTTOM 
+  GND                  VIA26                (303.0056 110.6371) TOP/BOTTOM 
+  GND                  VIA26                (303.0635 109.1133) TOP/BOTTOM 
+  GND                  VIA26                (304.0254 112.0289) TOP/BOTTOM 
+  GND                  VIA26                (307.0420 136.8318) TOP/BOTTOM 
+  GND                  VIA26                (331.0146 121.4514) TOP/BOTTOM 
+  GND                  VIA26                (332.3062 103.0024) TOP/BOTTOM 
+  GND                  VIA26                (335.4807 127.4762) TOP/BOTTOM 
+  GND                  VIA26                (338.6352 101.6953) TOP/BOTTOM 
+  GND                  VIA26                (339.2867 109.3739) TOP/BOTTOM 
+  GND                  VIA26                (341.3340 113.5134) TOP/BOTTOM 
+  GND                  VIA26                (343.0729 111.0887) TOP/BOTTOM 
+  GND                  VIA26                (350.8596 128.5956) TOP/BOTTOM 
+  GND                  VIA26                (379.4364 127.8018) TOP/BOTTOM 
+  GND                  VIA26                (390.5496 129.3894) TOP/BOTTOM 
+  GND                  VIA26                (391.8375 107.8536) TOP/BOTTOM 
+  LED_DATA             IC_VIA               (384.6566 120.7938) TOP/BOTTOM 
+  ROW_0                IC_VIA               (387.4936 121.7688) TOP/BOTTOM 
+  ROW_1                IC_VIA               (387.4936 118.5188) TOP/BOTTOM 
+  ROW_2                IC_VIA               (387.4936 119.1688) TOP/BOTTOM 
+  ROW_4                IC_VIA               (387.4936 120.4688) TOP/BOTTOM 
+  SCL                  IC_VIA               (387.0436 117.1068) TOP/BOTTOM 
+  SDA                  IC_VIA               (385.2936 121.1188) TOP/BOTTOM 
+  VBAT                 VIA26                (264.3354 130.1832) TOP/BOTTOM 
+  VBAT                 VIA26                (284.1804 102.4002) TOP/BOTTOM 
+  VBAT                 VIA26                (329.4270 107.9568) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:      10
+  Total dangling vias:        8
+  Total antenna vias:       109

@@ -1,0 +1,231 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sun Jan 25 06:48:26 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/Keyboard.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  S_R241T330M241_330P129_164 being dumped.
+
+  S_R330T119M330_119P330_119 being dumped.
+
+  MOUNT_CIRC_2P5MM being dumped.
+
+  C0067_CHERRY being dumped.
+
+  C0059_CHERRY being dumped.
+
+  R115_60 being dumped.
+
+  T_N40_65_M65 being dumped.
+
+  C01570_CHERRY being dumped.
+
+  C130_H80 being dumped.
+
+  S130_H80 being dumped.
+
+  S_R80T80M80_80P80_80 being dumped.
+
+  R40_37_5 being dumped.
+
+  C180_H120 being dumped.
+
+  SMD50_87 being dumped.
+
+  R80_77_5 being dumped.
+
+  C405_H270 being dumped.
+
+  S_R97T73M97_73P97_73 being dumped.
+
+  S_R87T93M87_93P87_93 being dumped.
+
+  T_N20_30 being dumped.
+
+  S180_H120 being dumped.
+
+  S_R86T98M86_98P86_98 being dumped.
+
+  S_R87T97M87_97P87_97 being dumped.
+
+  TH_CIRC_67MIL being dumped.
+
+  TH_CIRC_59MIL being dumped.
+
+  T_N154_232_M232 being dumped.
+
+  RX31P59Y35P4D0T being dumped.
+
+  S40 being dumped.
+
+  RX39P59Y37P4D0T being dumped.
+
+  RX47P59Y39P4D0T being dumped.
+
+  MEC being dumped.
+
+  TH_CIRC_157MIL being dumped.
+
+  S_R45T30D3M45_30P45_30 being dumped.
+
+  VIA being dumped.
+
+  RX13P06Y10P99D0T being dumped.
+
+  RX21P06Y14P99D0T being dumped.
+
+  RX17P06Y12P99D0T being dumped.
+
+  RX51Y33D0T being dumped.
+
+  RX55Y33D0T being dumped.
+
+  RX47Y33D0T being dumped.
+
+  S_01_THT_IRREG being dumped.
+
+  S_R109T88M109_88P109_88 being dumped.
+
+  S_R100T160M100_160 being dumped.
+
+  S_R179T98M179_98P179_98 being dumped.
+
+  RX91Y220D0T being dumped.
+
+  RX55Y134D0T being dumped.
+
+  T_L60_90SL_170_M190_110 being dumped.
+
+  T_L60_90SL_240_M259_110 being dumped.
+
+  S77_5 being dumped.
+
+  S_R206T60D2M206_60P206_60 being dumped.
+
+  S_R156T40D2M156_40P156_40 being dumped.
+
+  H_C408 being dumped.
+
+  RX34P5Y12D0T being dumped.
+
+  S_R197T60D2M197_60P197_60 being dumped.
+
+  S_R126T59D5M126_59P126_59 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  ps_r45_30_d350 being dumped.
+
+  ps_r206_60_d250 being dumped.
+
+  ps_r156_40_d250 being dumped.
+
+  ps_r126_59_d500 being dumped.
+
+  ps_r197_60_d250 being dumped.
+
+  ps_01_tht_irreg being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  ab00 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  trim_3361s-1-103glf being dumped.
+
+  soic127p1030x265-16n being dumped.
+
+  wl-smcw_0603 being dumped.
+
+  smdcap being dumped.
+
+  samtec_mtlw-101-07-g-s-280 being dumped.
+
+  sodfl2512x73n being dumped.
+
+  capc17595_90n_kem-l being dumped.
+
+  sodfl3816x120n being dumped.
+
+  vreg_tlv75533pdrvr being dumped.
+
+  cherry_sw_1u being dumped.
+
+  cherry_sw_2u being dumped.
+
+  smc1051gt being dumped.
+
+  sot95p230x110-3n being dumped.
+
+  sop65p640x120-8n being dumped.
+
+  cherry_sw_15u being dumped.
+
+  sot95p190x145-6n being dumped.
+
+  cherry_sw_25u being dumped.
+
+  sot323-5l_1p35x2p2x0p65_stm being dumped.
+
+  sop127p600x175-9n being dumped.
+
+  gct_usb4085-gf-a_revb being dumped.
+
+  cherry_sw_125u being dumped.
+
+  cherry_sw_625u being dumped.
+
+  cherry_sw_175u being dumped.
+
+  mnt_2p5mm being dumped.
+
+  cherry_sw_225u_vert being dumped.
+
+  nhd14432wgbtfhvt being dumped.
+
+  xl-5050rgbc_xlg-l being dumped.
+
+  isp1807lrrs being dumped.
+
+  led_sml-d12u1wt86 being dumped.
+
+  conn_1778764 being dumped.
+
+  resc1508x50n being dumped.
+
+  resc1508x55n being dumped.
+
+  resc1608x55n being dumped.
+
+  capc6333_33n_kem-l being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               54
+Number of package symbols dumped:         34
+Number of shape symbols dumped:            6
+Number of flash symbols dumped:            1
+
+Total number of symbols dumped:           41
+*****************************************************
+
