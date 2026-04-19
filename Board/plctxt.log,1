@@ -1,0 +1,561 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLCTXT Log                                                       )
+(                                                                     )
+(    Drawing          : Untitled_4.brd                                )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sat Jan 31 16:49:14 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Place by text file using: place_txt.txt
+
+ Save as C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/#Taaaaep10776.tmp 
+
+ Refdes DS1 is already placed ... skipping
+
+ Refdes S69 is already placed ... skipping
+
+ Refdes S79 is already placed ... skipping
+
+ Refdes S84 is already placed ... skipping
+
+ Refdes S88 is already placed ... skipping
+
+ Refdes S89 is already placed ... skipping
+
+ Refdes S90 is already placed ... skipping
+
+ Refdes S91 is already placed ... skipping
+
+ Refdes S92 is already placed ... skipping
+
+ Refdes S93 is already placed ... skipping
+
+ Refdes S1 is already placed ... skipping
+
+ Refdes S10 is already placed ... skipping
+
+ Refdes S11 is already placed ... skipping
+
+ Refdes S12 is already placed ... skipping
+
+ Refdes S85 is already placed ... skipping
+
+ Refdes S13 is already placed ... skipping
+
+ Refdes S86 is already placed ... skipping
+
+ Refdes S14 is already placed ... skipping
+
+ Refdes S87 is already placed ... skipping
+
+ Refdes S15 is already placed ... skipping
+
+ Refdes S80 is already placed ... skipping
+
+ Refdes S16 is already placed ... skipping
+
+ Refdes S81 is already placed ... skipping
+
+ Refdes S17 is already placed ... skipping
+
+ Refdes S82 is already placed ... skipping
+
+ Refdes S18 is already placed ... skipping
+
+ Refdes S73 is already placed ... skipping
+
+ Refdes S19 is already placed ... skipping
+
+ Refdes S74 is already placed ... skipping
+
+ Refdes S2 is already placed ... skipping
+
+ Refdes S20 is already placed ... skipping
+
+ Refdes S75 is already placed ... skipping
+
+ Refdes S21 is already placed ... skipping
+
+ Refdes S22 is already placed ... skipping
+
+ Refdes S23 is already placed ... skipping
+
+ Refdes S24 is already placed ... skipping
+
+ Refdes S25 is already placed ... skipping
+
+ Refdes S26 is already placed ... skipping
+
+ Refdes S27 is already placed ... skipping
+
+ Refdes S28 is already placed ... skipping
+
+ Refdes S29 is already placed ... skipping
+
+ Refdes S3 is already placed ... skipping
+
+ Refdes S30 is already placed ... skipping
+
+ Refdes S31 is already placed ... skipping
+
+ Refdes S32 is already placed ... skipping
+
+ Refdes S33 is already placed ... skipping
+
+ Refdes S34 is already placed ... skipping
+
+ Refdes S35 is already placed ... skipping
+
+ Refdes S36 is already placed ... skipping
+
+ Refdes S37 is already placed ... skipping
+
+ Refdes S38 is already placed ... skipping
+
+ Refdes S39 is already placed ... skipping
+
+ Refdes S4 is already placed ... skipping
+
+ Refdes S40 is already placed ... skipping
+
+ Refdes S41 is already placed ... skipping
+
+ Refdes S42 is already placed ... skipping
+
+ Refdes S43 is already placed ... skipping
+
+ Refdes S44 is already placed ... skipping
+
+ Refdes S45 is already placed ... skipping
+
+ Refdes S46 is already placed ... skipping
+
+ Refdes S47 is already placed ... skipping
+
+ Refdes S48 is already placed ... skipping
+
+ Refdes S49 is already placed ... skipping
+
+ Refdes S5 is already placed ... skipping
+
+ Refdes S50 is already placed ... skipping
+
+ Refdes S51 is already placed ... skipping
+
+ Refdes S52 is already placed ... skipping
+
+ Refdes S53 is already placed ... skipping
+
+ Refdes S54 is already placed ... skipping
+
+ Refdes S55 is already placed ... skipping
+
+ Refdes S56 is already placed ... skipping
+
+ Refdes S57 is already placed ... skipping
+
+ Refdes S58 is already placed ... skipping
+
+ Refdes S59 is already placed ... skipping
+
+ Refdes S6 is already placed ... skipping
+
+ Refdes S60 is already placed ... skipping
+
+ Refdes S61 is already placed ... skipping
+
+ Refdes S94 is already placed ... skipping
+
+ Refdes S62 is already placed ... skipping
+
+ Refdes S68 is already placed ... skipping
+
+ Refdes S63 is already placed ... skipping
+
+ Refdes S64 is already placed ... skipping
+
+ Refdes S65 is already placed ... skipping
+
+ Refdes S66 is already placed ... skipping
+
+ Refdes S67 is already placed ... skipping
+
+ Refdes S7 is already placed ... skipping
+
+ Refdes S70 is already placed ... skipping
+
+ Refdes S71 is already placed ... skipping
+
+ Refdes S72 is already placed ... skipping
+
+ Refdes S76 is already placed ... skipping
+
+ Refdes S77 is already placed ... skipping
+
+ Refdes S78 is already placed ... skipping
+
+ Refdes S8 is already placed ... skipping
+
+ Refdes S83 is already placed ... skipping
+
+ Refdes S9 is already placed ... skipping
+
+ Refdes S95 is already placed ... skipping
+
+ Refdes C2 is already placed ... skipping
+
+ Refdes C1 is already placed ... skipping
+
+ Refdes C9 is already placed ... skipping
+
+ Refdes C13 is already placed ... skipping
+
+ Refdes C14 is already placed ... skipping
+
+ Refdes C12 is already placed ... skipping
+
+ Refdes C16 is already placed ... skipping
+
+ Refdes C17 is already placed ... skipping
+
+ Refdes C15 is already placed ... skipping
+
+ Refdes C18 is already placed ... skipping
+
+ Refdes C19 is already placed ... skipping
+
+ Refdes C3 is already placed ... skipping
+
+ Refdes C4 is already placed ... skipping
+
+ Refdes C5 is already placed ... skipping
+
+ Refdes C6 is already placed ... skipping
+
+ Refdes C7 is already placed ... skipping
+
+ Refdes C8 is already placed ... skipping
+
+ Refdes C10 is already placed ... skipping
+
+ Refdes C11 is already placed ... skipping
+
+ Refdes C20 is already placed ... skipping
+
+ Refdes C21 is already placed ... skipping
+
+ Refdes C22 is already placed ... skipping
+
+ Refdes C23 is already placed ... skipping
+
+ Refdes C24 is already placed ... skipping
+
+ Refdes C25 is already placed ... skipping
+
+ Refdes C26 is already placed ... skipping
+
+ Refdes D8 is already placed ... skipping
+
+ Refdes D9 is already placed ... skipping
+
+ Refdes D10 is already placed ... skipping
+
+ Refdes D11 is already placed ... skipping
+
+ Refdes D12 is already placed ... skipping
+
+ Refdes D13 is already placed ... skipping
+
+ Refdes D14 is already placed ... skipping
+
+ Refdes D15 is already placed ... skipping
+
+ Refdes D16 is already placed ... skipping
+
+ Refdes D17 is already placed ... skipping
+
+ Refdes D18 is already placed ... skipping
+
+ Refdes D19 is already placed ... skipping
+
+ Refdes D20 is already placed ... skipping
+
+ Refdes D21 is already placed ... skipping
+
+ Refdes D22 is already placed ... skipping
+
+ Refdes D23 is already placed ... skipping
+
+ Refdes D24 is already placed ... skipping
+
+ Refdes D25 is already placed ... skipping
+
+ Refdes D26 is already placed ... skipping
+
+ Refdes D27 is already placed ... skipping
+
+ Refdes D1 is already placed ... skipping
+
+ Refdes D28 is already placed ... skipping
+
+ Refdes D29 is already placed ... skipping
+
+ Refdes D30 is already placed ... skipping
+
+ Refdes D31 is already placed ... skipping
+
+ Refdes D32 is already placed ... skipping
+
+ Refdes D33 is already placed ... skipping
+
+ Refdes D34 is already placed ... skipping
+
+ Refdes D35 is already placed ... skipping
+
+ Refdes D36 is already placed ... skipping
+
+ Refdes D37 is already placed ... skipping
+
+ Refdes D2 is already placed ... skipping
+
+ Refdes D38 is already placed ... skipping
+
+ Refdes D39 is already placed ... skipping
+
+ Refdes D40 is already placed ... skipping
+
+ Refdes D41 is already placed ... skipping
+
+ Refdes D42 is already placed ... skipping
+
+ Refdes D43 is already placed ... skipping
+
+ Refdes D44 is already placed ... skipping
+
+ Refdes D45 is already placed ... skipping
+
+ Refdes D46 is already placed ... skipping
+
+ Refdes D47 is already placed ... skipping
+
+ Refdes D3 is already placed ... skipping
+
+ Refdes D48 is already placed ... skipping
+
+ Refdes D49 is already placed ... skipping
+
+ Refdes D50 is already placed ... skipping
+
+ Refdes D51 is already placed ... skipping
+
+ Refdes D52 is already placed ... skipping
+
+ Refdes D53 is already placed ... skipping
+
+ Refdes D54 is already placed ... skipping
+
+ Refdes D55 is already placed ... skipping
+
+ Refdes D56 is already placed ... skipping
+
+ Refdes D57 is already placed ... skipping
+
+ Refdes D4 is already placed ... skipping
+
+ Refdes D58 is already placed ... skipping
+
+ Refdes D59 is already placed ... skipping
+
+ Refdes D60 is already placed ... skipping
+
+ Refdes D61 is already placed ... skipping
+
+ Refdes D62 is already placed ... skipping
+
+ Refdes D63 is already placed ... skipping
+
+ Refdes D64 is already placed ... skipping
+
+ Refdes D65 is already placed ... skipping
+
+ Refdes D66 is already placed ... skipping
+
+ Refdes D5 is already placed ... skipping
+
+ Refdes D67 is already placed ... skipping
+
+ Refdes D68 is already placed ... skipping
+
+ Refdes D69 is already placed ... skipping
+
+ Refdes D70 is already placed ... skipping
+
+ Refdes D71 is already placed ... skipping
+
+ Refdes D72 is already placed ... skipping
+
+ Refdes D73 is already placed ... skipping
+
+ Refdes D74 is already placed ... skipping
+
+ Refdes D75 is already placed ... skipping
+
+ Refdes D76 is already placed ... skipping
+
+ Refdes D6 is already placed ... skipping
+
+ Refdes D77 is already placed ... skipping
+
+ Refdes D78 is already placed ... skipping
+
+ Refdes D79 is already placed ... skipping
+
+ Refdes D80 is already placed ... skipping
+
+ Refdes D81 is already placed ... skipping
+
+ Refdes D82 is already placed ... skipping
+
+ Refdes D83 is already placed ... skipping
+
+ Refdes D84 is already placed ... skipping
+
+ Refdes D85 is already placed ... skipping
+
+ Refdes D86 is already placed ... skipping
+
+ Refdes D7 is already placed ... skipping
+
+ Refdes D87 is already placed ... skipping
+
+ Refdes D88 is already placed ... skipping
+
+ Refdes D89 is already placed ... skipping
+
+ Refdes D90 is already placed ... skipping
+
+ Refdes D91 is already placed ... skipping
+
+ Refdes D92 is already placed ... skipping
+
+ Refdes D93 is already placed ... skipping
+
+ Refdes D94 is already placed ... skipping
+
+ Refdes D95 is already placed ... skipping
+
+ Refdes D97 is already placed ... skipping
+
+ Refdes D98 is already placed ... skipping
+
+ Refdes D96 is already placed ... skipping
+
+ Refdes IC1 is already placed ... skipping
+
+ Refdes IC2 is already placed ... skipping
+
+ Refdes J1 is already placed ... skipping
+
+ Refdes J2 is already placed ... skipping
+
+ Refdes J3 is already placed ... skipping
+
+ Refdes J4 is already placed ... skipping
+
+ Refdes LED1 is already placed ... skipping
+
+ Refdes LED10 is already placed ... skipping
+
+ Refdes LED11 is already placed ... skipping
+
+ Refdes LED12 is already placed ... skipping
+
+ Refdes LED13 is already placed ... skipping
+
+ Refdes LED14 is already placed ... skipping
+
+ Refdes LED15 is already placed ... skipping
+
+ Refdes LED16 is already placed ... skipping
+
+ Refdes LED2 is already placed ... skipping
+
+ Refdes LED3 is already placed ... skipping
+
+ Refdes LED4 is already placed ... skipping
+
+ Refdes LED5 is already placed ... skipping
+
+ Refdes LED6 is already placed ... skipping
+
+ Refdes LED7 is already placed ... skipping
+
+ Refdes LED8 is already placed ... skipping
+
+ Refdes LED9 is already placed ... skipping
+
+ Refdes M1 is already placed ... skipping
+
+ Refdes M2 is already placed ... skipping
+
+ Refdes M3 is already placed ... skipping
+
+ Refdes M4 is already placed ... skipping
+
+ Refdes Q1 is already placed ... skipping
+
+ Refdes Q2 is already placed ... skipping
+
+ Refdes Q3 is already placed ... skipping
+
+ Refdes R1 is already placed ... skipping
+
+ Refdes R10 is already placed ... skipping
+
+ Refdes R7 is already placed ... skipping
+
+ Refdes R11 is already placed ... skipping
+
+ Refdes R17 is already placed ... skipping
+
+ Refdes R12 is already placed ... skipping
+
+ Refdes R13 is already placed ... skipping
+
+ Refdes R15 is already placed ... skipping
+
+ Refdes R16 is already placed ... skipping
+
+ Refdes R14 is already placed ... skipping
+
+ Refdes R2 is already placed ... skipping
+
+ Refdes R3 is already placed ... skipping
+
+ Refdes R4 is already placed ... skipping
+
+ Refdes R5 is already placed ... skipping
+
+ Refdes R6 is already placed ... skipping
+
+ Refdes R8 is already placed ... skipping
+
+ Refdes R9 is already placed ... skipping
+
+ Refdes U1 is already placed ... skipping
+
+ Refdes U2 is already placed ... skipping
+
+ Refdes U3 is already placed ... skipping
+
+ Refdes VR1 is already placed ... skipping
+
+ Successfully placed 0 components
+
+ Failed to place 270 components
+
+ 270 Warnings reported

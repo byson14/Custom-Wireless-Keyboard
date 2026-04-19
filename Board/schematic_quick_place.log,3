@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : CustomKeyboard.brd                            )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sun Feb  8 21:05:07 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Placing page "6"
+	ERROR:   Cannot place symbol:  U4 / TLV75533PDRVR_DRV0006A_TLV75533 / DRV0006A
+		 due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+
+Placed 0 of 1 symbols.

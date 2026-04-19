@@ -1,0 +1,57 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    LIVEDOC PDF EXPORT                                               )
+(                                                                     )
+(    Drawing          : CustomKeyboard.brd                            )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sun Feb  8 22:27:23 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Creating page - "Fabrication"
+
+	Processing Layer Based View - Views_Assembly Top at location (80, 50), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Layer Based View - Views_Assembly Bottom at location (180, 700), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Layer Based View - Artworks_TOP at location (2430, 80), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Layer Based View - Artworks_BOTTOM at location (2380, 790), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Layer Based View - Artworks_GND at location (180, 1460), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Layer Based View - Artworks_POWER at location (260, 2180), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Layer Based View - Artworks_SSTP at location (2280, 1460), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Layer Based View - Artworks_SSBT at location (2330, 2180), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Title Block at location (3830, 3219).
+	Title Block successfully processed.
+
+Page - "Fabrication" successfully processed
+
+Creating page - "Assembly"
+
+	Processing Layer Based View - Views_Assembly Top at location (100, 100), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Layer Based View - Views_Assembly Bottom at location (100, 900), view scale = 1.000000
+	Layer Based View successfully processed.
+
+	Processing Title Block at location (1630, 1519).
+	Title Block successfully processed.
+
+Page - "Assembly" successfully processed
+
+C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/CustomKeyboard.pdf file generated successfully.

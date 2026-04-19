@@ -1,0 +1,586 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : CustomKeyboard.brd                            )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sun Feb  8 22:26:49 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                3.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.22000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.65000                                  DARK 
+  CIRCLE     0.66040                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.51990                                  DARK 
+  CIRCLE     1.70180                                  DARK 
+  CIRCLE     2.28600                                  DARK 
+  CIRCLE     2.50010                                  DARK 
+  CIRCLE     3.98780                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     0.40000                     0.000 NO     DARK 
+  SQUARE     0.77500                     0.000 NO     DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  RECTANGLE  0.33170     x 0.27910       0.000 NO     DARK 
+  RECTANGLE  0.33170     x 0.27910      90.000 NO     DARK 
+  RECTANGLE  0.37490     x 0.40000       0.000 NO     DARK 
+  RECTANGLE  0.37490     x 0.40000      90.000 NO     DARK 
+  RECTANGLE  0.77500     x 0.80010      90.000 NO     DARK 
+  RECTANGLE  0.80240     x 0.89920       0.000 NO     DARK 
+  RECTANGLE  0.80240     x 0.89920      90.000 NO     DARK 
+  RECTANGLE  0.86000     x 0.97990       0.000 NO     DARK 
+  RECTANGLE  0.86000     x 0.97990      90.000 NO     DARK 
+  RECTANGLE  0.97000     x 0.73000       0.000 NO     DARK 
+  RECTANGLE  1.19380     x 0.83820       0.000 NO     DARK 
+  RECTANGLE  3.30000     x 1.19000      90.000 NO     DARK 
+  OBLONG     1.70000     x 0.89990      90.000 NO     DARK 
+  OBLONG     2.40000     x 0.89990      90.000 NO     DARK 
+  PAD SHAPE  PS_R206_60_D250             0.000 NO     DARK 
+  PAD SHAPE  PS_R126_59_D500           180.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < SSTP >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/SSTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (5.5550 20.8051)
+           ... using undefined line width of 0.1524
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1524
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10010                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.19990                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     SSTP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SSBT >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/SSBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10010                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.19990                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     SSBT created.
+
+
+================================================================
+     PROCESSING FILM < SPTP >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/SPTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.22000                                  DARK 
+  SQUARE     0.40000                     0.000 NO     DARK 
+  SQUARE     0.77500                     0.000 NO     DARK 
+  RECTANGLE  0.33170     x 0.27910       0.000 NO     DARK 
+  RECTANGLE  0.33170     x 0.27910      90.000 NO     DARK 
+  RECTANGLE  0.37490     x 0.40000       0.000 NO     DARK 
+  RECTANGLE  0.37490     x 0.40000      90.000 NO     DARK 
+  RECTANGLE  0.77500     x 0.80010      90.000 NO     DARK 
+  RECTANGLE  0.80240     x 0.89920       0.000 NO     DARK 
+  RECTANGLE  0.80240     x 0.89920      90.000 NO     DARK 
+  RECTANGLE  0.86000     x 0.97990       0.000 NO     DARK 
+  RECTANGLE  0.86000     x 0.97990      90.000 NO     DARK 
+  RECTANGLE  0.97000     x 0.73000       0.000 NO     DARK 
+  RECTANGLE  1.19380     x 0.83820       0.000 NO     DARK 
+  RECTANGLE  3.30000     x 1.19000      90.000 NO     DARK 
+  PAD SHAPE  PS_R206_60_D250             0.000 NO     DARK 
+  PAD SHAPE  PS_R126_59_D500           180.000 NO     DARK 
+
+     SPTP created.
+
+
+================================================================
+     PROCESSING FILM < SPBT >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/SPBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.22000                                  DARK 
+  RECTANGLE  0.33170     x 0.27910      90.000 NO     DARK 
+  RECTANGLE  0.80010     x 0.80010      90.000 NO     DARK 
+  RECTANGLE  0.80240     x 0.89920      90.000 NO     DARK 
+  RECTANGLE  0.86000     x 0.97990       0.000 NO     DARK 
+  RECTANGLE  0.86990     x 0.92990       0.000 NO     DARK 
+  RECTANGLE  0.86990     x 0.97000       0.000 NO     DARK 
+  RECTANGLE  0.87630     x 0.30480       0.000 NO     DARK 
+  RECTANGLE  1.08990     x 0.88010      90.000 NO     DARK 
+  RECTANGLE  1.29010     x 1.64010       0.000 NO     DARK 
+  RECTANGLE  1.39700     x 3.40360       0.000 NO     DARK 
+  RECTANGLE  1.78990     x 0.97990      90.000 NO     DARK 
+  RECTANGLE  2.31140     x 5.58800       0.000 NO     DARK 
+  PAD SHAPE  PS_R197_60_D250             0.000 YES    DARK 
+  PAD SHAPE  PS_R156_40_D250           270.000 YES    DARK 
+
+     SPBT created.
+
+
+================================================================
+     PROCESSING FILM < SMTP >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/SMTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.22000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.45720                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.51990                                  DARK 
+  CIRCLE     1.59990                                  DARK 
+  CIRCLE     1.95580                                  DARK 
+  CIRCLE     2.54000                                  DARK 
+  CIRCLE     2.70000                                  DARK 
+  CIRCLE     4.24180                                  DARK 
+  CIRCLE     4.50010                                  DARK 
+  SQUARE     0.40000                     0.000 NO     DARK 
+  SQUARE     0.77500                     0.000 NO     DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  RECTANGLE  0.33170     x 0.27910       0.000 NO     DARK 
+  RECTANGLE  0.33170     x 0.27910      90.000 NO     DARK 
+  RECTANGLE  0.37490     x 0.40000       0.000 NO     DARK 
+  RECTANGLE  0.37490     x 0.40000      90.000 NO     DARK 
+  RECTANGLE  0.77500     x 0.80010      90.000 NO     DARK 
+  RECTANGLE  0.80240     x 0.89920       0.000 NO     DARK 
+  RECTANGLE  0.80240     x 0.89920      90.000 NO     DARK 
+  RECTANGLE  1.05990     x 1.18010       0.000 NO     DARK 
+  RECTANGLE  1.05990     x 1.18010      90.000 NO     DARK 
+  RECTANGLE  1.16990     x 0.92990       0.000 NO     DARK 
+  RECTANGLE  1.19380     x 0.83820       0.000 NO     DARK 
+  RECTANGLE  3.50010     x 1.38990      90.000 NO     DARK 
+  OBLONG     1.89990     x 1.10010      90.000 NO     DARK 
+  OBLONG     2.59990     x 1.10010      90.000 NO     DARK 
+  PAD SHAPE  PS_R206_60_D250             0.000 NO     DARK 
+  PAD SHAPE  PS_R126_59_D500           180.000 NO     DARK 
+
+     SMTP created.
+
+
+================================================================
+     PROCESSING FILM < SMBT >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/SMBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.22000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.45720                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.51990                                  DARK 
+  CIRCLE     1.59990                                  DARK 
+  CIRCLE     1.95580                                  DARK 
+  CIRCLE     2.54000                                  DARK 
+  CIRCLE     4.24180                                  DARK 
+  CIRCLE     4.50010                                  DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  RECTANGLE  0.33170     x 0.27910      90.000 NO     DARK 
+  RECTANGLE  0.80240     x 0.89920      90.000 NO     DARK 
+  RECTANGLE  0.87630     x 0.30480       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.05990     x 1.18010       0.000 NO     DARK 
+  RECTANGLE  1.07010     x 1.13000       0.000 NO     DARK 
+  RECTANGLE  1.07010     x 1.16990       0.000 NO     DARK 
+  RECTANGLE  1.27000     x 2.20980      90.000 NO     DARK 
+  RECTANGLE  1.29010     x 1.08000      90.000 NO     DARK 
+  RECTANGLE  1.39700     x 3.40360       0.000 NO     DARK 
+  RECTANGLE  1.99010     x 1.18010      90.000 NO     DARK 
+  RECTANGLE  2.31140     x 5.58800       0.000 NO     DARK 
+  RECTANGLE  2.61290     x 3.50190       0.000 NO     DARK 
+  OBLONG     1.89990     x 1.10010      90.000 NO     DARK 
+  OBLONG     2.59990     x 1.10010      90.000 NO     DARK 
+  PAD SHAPE  PS_R197_60_D250             0.000 YES    DARK 
+  PAD SHAPE  PS_R156_40_D250           270.000 YES    DARK 
+
+     SMBT created.
+
+
+================================================================
+     PROCESSING FILM < POWER >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/POWER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.22000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.65000                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.51990                                  DARK 
+  CIRCLE     1.70180                                  DARK 
+  CIRCLE     2.28600                                  DARK 
+  CIRCLE     2.50010                                  DARK 
+  CIRCLE     3.98780                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  OBLONG     1.70000     x 0.89990      90.000 NO     DARK 
+  OBLONG     2.40000     x 0.89990      90.000 NO     DARK 
+
+     POWER created.
+
+
+================================================================
+     PROCESSING FILM < GND >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/GND.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.22000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.65000                                  DARK 
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.51990                                  DARK 
+  CIRCLE     1.70180                                  DARK 
+  CIRCLE     2.28600                                  DARK 
+  CIRCLE     2.50010                                  DARK 
+  CIRCLE     3.98780                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  OBLONG     1.70000     x 0.89990      90.000 NO     DARK 
+  OBLONG     2.40000     x 0.89990      90.000 NO     DARK 
+
+     GND created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.22000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.65000                                  DARK 
+  CIRCLE     0.66040                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.70180                                  DARK 
+  CIRCLE     2.28600                                  DARK 
+  CIRCLE     2.50010                                  DARK 
+  CIRCLE     3.98780                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  RECTANGLE  0.33170     x 0.27910      90.000 NO     DARK 
+  RECTANGLE  0.35000     x 0.60000      90.000 NO     DARK 
+  RECTANGLE  0.59990     x 1.15010      90.000 NO     DARK 
+  RECTANGLE  0.80010     x 0.80010      90.000 NO     DARK 
+  RECTANGLE  0.80240     x 0.89920      90.000 NO     DARK 
+  RECTANGLE  0.86000     x 0.97990       0.000 NO     DARK 
+  RECTANGLE  0.86990     x 0.92990       0.000 NO     DARK 
+  RECTANGLE  0.86990     x 0.97000       0.000 NO     DARK 
+  RECTANGLE  0.87630     x 0.30480       0.000 NO     DARK 
+  RECTANGLE  1.08990     x 0.88010      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  1.27000     x 2.20980      90.000 NO     DARK 
+  RECTANGLE  1.39700     x 3.40360       0.000 NO     DARK 
+  RECTANGLE  1.78990     x 0.97990      90.000 NO     DARK 
+  RECTANGLE  2.31140     x 5.58800       0.000 NO     DARK 
+  RECTANGLE  2.41300     x 3.30200       0.000 NO     DARK 
+  OBLONG     1.70000     x 0.89990      90.000 NO     DARK 
+  OBLONG     2.40000     x 0.89990      90.000 NO     DARK 
+  PAD SHAPE  PS_R197_60_D250             0.000 YES    DARK 
+  PAD SHAPE  PS_01_THT_IRREG             0.000 YES    DARK 
+  PAD SHAPE  PS_R156_40_D250           270.000 YES    DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < ASSYTP >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/ASSYTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (10.7531 122.1247)
+           ... using undefined line width of 0.1524
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1524
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10010                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.19990                                  DARK 
+
+     ASSYTP created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSYBT >
+     TO FILE < C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/ASSYBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10010                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.19990                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     ASSYBT created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        SSTP created with warnings
+        SSBT created.
+        SPTP created.
+        SPBT created.
+        SMTP created.
+        SMBT created.
+        POWER created.
+        GND created.
+        BOTTOM created.
+        ASSYTP created with warnings
+        ASSYBT created.
+
+ ARTWORK had warnings

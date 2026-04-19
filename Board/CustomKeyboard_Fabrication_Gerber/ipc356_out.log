@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sun Feb  8 22:26:59 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String T_L60_90SL_240_M259_110 exceeds record length on line 53 at column 4
+Warning: String T_L60_90SL_170_M190_110 exceeds record length on line 54 at column 4
+Warning: String S_R45T30D3M45_30P45_30 exceeds record length on line 61 at column 4
+Warning: String S_R241T330M241_330P129_164 exceeds record length on line 63 at column 4
+Warning: String S_R197T60D2M197_60P197_60 exceeds record length on line 64 at column 4
+Warning: String S_R206T60D2M206_60P206_60 exceeds record length on line 65 at column 4
+Warning: String S_R330T119M330_119P330_119 exceeds record length on line 69 at column 4
+Warning: String S_R156T40D2M156_40P156_40 exceeds record length on line 70 at column 4
+Warning: String S_R126T59D5M126_59P126_59 exceeds record length on line 71 at column 4
+Warning: String S_R179T98M179_98P179_98 exceeds record length on line 83 at column 4
+Warning: String S_R109T88M109_88P109_88 exceeds record length on line 84 at column 4
+Warning: Found a mechanical pin at location (263.6107 134.4391) with no drill - skipping.
+Warning: Found a mechanical pin at location (271.4105 134.4391) with no drill - skipping.
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:    13

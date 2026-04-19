@@ -1,0 +1,12 @@
+Warning - Drill hole size exceeds pad TOP size
+Warning - Drill hole size exceeds pad GND size
+Warning - Drill hole size exceeds pad POWER size
+Warning - Drill hole size exceeds pad DEFAULT INTERNAL size
+Warning - Drill hole size exceeds pad BOTTOM size
+
+Edit mode : all instance mode
+
+Padstack name : VIA
+Update padstack successfully
+
+Failed to save padstack with error : -3000119

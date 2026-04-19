@@ -1,0 +1,85 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : Keyboard.brd                                  )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Fri Jan 30 23:27:21 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Jan 30 23:27:21 2026				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/Keyboard.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/lonewolf/AppData/Local/Temp/#Taaaajz12476.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_24.1/share/local/pcb/symbols 
+           C:/Cadence/SPB_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_24.1/share/pcb/allegrolib/symbols 
+           C:/Users/lonewolf/Desktop/30 
+           Days 
+           Project/1. 
+           Blinking 
+           LED/Footprint 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/OrCAD_Capture/24.1.0/downloaded_parts/allegropcb 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace/libraries/footprints/downloads 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace/libraries/footprints 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           C:/Users/lonewolf/Desktop/Custom Keyboard/Footprint/Pads 
+           C:/Users/lonewolf/Desktop/Custom Keyboard/Footprint 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_24.1/share/local/pcb/padstacks 
+           C:/Cadence/SPB_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_24.1/share/pcb/allegrolib/symbols 
+           LED/Footprint/Pads 
+           LED/Footprint 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/OrCAD_Capture/24.1.0/downloaded_parts/allegropcb 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace/libraries/footprints/downloads 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace/libraries/footprints 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           C:/Users/lonewolf/Desktop/Custom Keyboard/Footprint 
+           C:/Users/lonewolf/Desktop/Custom Keyboard/Footprint/Pads 
+
+
+------ Symbol Refresh Messages ------
+
+'VREG_TLV75533PDRVR'  symbol refreshed successfully.
+
+
+------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
+
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

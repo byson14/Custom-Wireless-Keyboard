@@ -1,0 +1,111 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : CustomKeyboard.brd                            )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sun Feb  8 21:12:27 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         '.'
+Design Directory:            'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board'
+Old design name:             'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/CustomKeyboard.brd'
+New design name:             'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/CustomKeyboard.brd'
+
+CmdLine: netrev -y 1 -q netrev_constraint_report.xml C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/#Taaaaet12468.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read ./pstchip.dat 
+   Finished reading ./pstchip.dat (00:00:00.67)
+Starting to read ./pstxprt.dat 
+   Finished reading ./pstxprt.dat (00:00:00.09)
+Starting to read ./pstxnet.dat 
+   Finished reading ./pstxnet.dat (00:00:00.02)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/orcadx_25.1/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_24.1/share/local/pcb/symbols 
+           C:/Cadence/SPB_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_24.1/share/pcb/allegrolib/symbols 
+           C:/Users/lonewolf/Desktop/30 
+           Days 
+           Project/1. 
+           Blinking 
+           LED/Footprint 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/OrCAD_Capture/24.1.0/downloaded_parts/allegropcb 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace/libraries/footprints/downloads 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace/libraries/footprints 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           C:/Users/lonewolf/Desktop/Custom Keyboard/Footprint/Pads 
+           C:/Users/lonewolf/Desktop/Custom Keyboard/Footprint 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_24.1/share/local/pcb/padstacks 
+           C:/Cadence/SPB_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_24.1/share/pcb/allegrolib/symbols 
+           LED/Footprint/Pads 
+           LED/Footprint 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/OrCAD_Capture/24.1.0/downloaded_parts/allegropcb 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace/libraries/footprints/downloads 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace/libraries/footprints 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/workspace 
+           C:/Users/lonewolf/Desktop/Cadence/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           C:/Users/lonewolf/Desktop/Custom Keyboard/Footprint 
+           C:/Users/lonewolf/Desktop/Custom Keyboard/Footprint/Pads 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Feb 8 21:12:26 2026
+   DESIGN NAME : 'CUSTOMWIRELESSKEYBOARD'
+   PACKAGING ON Sep 14 2025 20:02:13
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:09:29
+elapsed time  0:00:04
+

@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    SINGLE EXPORTS                                                   )
+(                                                                     )
+(    Drawing          : CustomKeyboard.brd                            )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sun Feb  8 22:26:43 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Failed to update the NC Drill Legend location
+Current film records are deleted and saved as an attachment to the design.
+
+Creating new film records in the design as per configuration file
+	TOP
+	GND
+	POWER
+	BOTTOM
+	NCLEGEND-1-4
+	SSTP
+	SSBT
+	SMTP
+	SMBT
+	SPTP
+	SPBT
+	ASSYTP
+	ASSYBT
+
+Processing group :Fabrication_Gerber
+
+	Executing command :Artwork
+		Successfully generated outputs
+
+	Executing command :NC Drill - NC Route
+		Successfully generated outputs
+
+	Executing command :IPC-D-356 Netlist
+		Successfully generated outputs
+
+	Executing command :Backdrill Report
+		Successfully generated outputs
+
+	Executing command :Fabrication Drill View PDFs
+		Successfully generated outputs
+
+	Executing command :Artwork Film Record PDFs
+		Successfully generated outputs
+
+	Executing command :Livedoc Fabrication and Assembly PDF
+		Successfully generated outputs
+
+	Executing command :Assembly Drawing View PDFs
+		Successfully generated outputs
+
+8 out of 8 exports successfully created. outputs are added to CustomKeyboard_Fabrication_Gerber.zip
+
+
+Configuration data is saved as an attachment to the design
