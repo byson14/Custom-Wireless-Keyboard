@@ -1,0 +1,209 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<STEP-3D-MAPPING revision="A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header lengthUnit="MM" placeOnPastemask="no"/>
+  <Body>
+    <MapItem package="SON65P200X200X80-7N">
+      <StepModel type="PRIMARY" file="TLV75533PDRVR.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="ISP1807LRRS">
+      <StepModel type="PRIMARY" file="ISP1807-LR-RS.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="XL-5050RGBC_XLG-L">
+      <StepModel type="PRIMARY" file="XL-5050RGBC_XLG.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="MX-SERIES-SW-1-POLE-2P25U">
+      <StepModel type="PRIMARY" file="2.25u.step">
+        <Offset x="0.007620" y="0.013462" z="0.046990"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="MX-SERIES-SW-1-POLE-6P25U">
+      <StepModel type="PRIMARY" file="6.25u.step">
+        <Offset x="0.007620" y="0.013462" z="0.046990"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="MX-SERIES-SW-1-POLE-1P5U">
+      <StepModel type="PRIMARY" file="1.5u.step">
+        <Offset x="0.007620" y="0.013462" z="0.046990"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="MX-SERIES-SW-1-POLE-1P75U">
+      <StepModel type="PRIMARY" file="1.75u.step">
+        <Offset x="0.007620" y="0.013462" z="0.046990"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="MX-SERIES-SW-1-POLE-2U">
+      <StepModel type="PRIMARY" file="2u.step">
+        <Offset x="0.007620" y="0.013462" z="0.046990"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="MX-SERIES-SW-1-POLE-2U-VERT">
+      <StepModel type="PRIMARY" file="2u_vert.step">
+        <Offset x="0.007620" y="0.013462" z="0.046990"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SOT323-5L_1P35X2P2X0P65_STM">
+      <StepModel type="PRIMARY" file="SOT323-5L_1P35X2P2X0P65_STM.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="MX-SERIES-SW-1-POLE">
+      <StepModel type="PRIMARY" file="1U.step">
+        <Offset x="0.007620" y="0.013462" z="0.046990"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="SMC1051GT">
+      <StepModel type="PRIMARY" file="SMC-1-05-1-GT.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="NHD-0216XZ-FSW-GBW">
+      <StepModel type="PRIMARY" file="NHD-0216XZ-FSW-GBW.stp">
+        <Offset x="41.968420" y="17.896332" z="5.575808"/>
+        <Rotation x="0.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="CAPC6333_33N_KEM-L">
+      <StepModel type="PRIMARY" file="CAPC6333_33N_KEM.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem package="CAPC17595_90N_KEM-L">
+      <StepModel type="PRIMARY" file="CAPC17595_90N_KEM.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="TLV75533PDRVR_SON65P200X200X80-" package="SON65P200X200X80-7N">
+      <StepModel type="PRIMARY" file="TLV75533PDRVR.stp">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="1N4148W_SODFL3816X120N_1N4148W" package="SODFL3816X120N">
+      <StepModel type="PRIMARY" file="1N4148W.STEP">
+        <Offset x="-1.929600" y="-0.297800" z="-0.077300"/>
+        <Rotation x="0.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="SS14M_SODFL2512X73N_SS14M" package="SODFL2512X73N">
+      <StepModel type="PRIMARY" file="SS14M.STEP">
+        <Offset x="0.049400" y="0.000000" z="0.035300"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="SML-D12U1WT86_LED_SML-D12U1WT86" package="LED_SML-D12U1WT86">
+      <StepModel type="PRIMARY" file="SML-D12U1WT86.step">
+        <Offset x="-0.008500" y="-0.006100" z="0.127000"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="DW01A-G_SOT95P190X145-6N_DW01A-" package="SOT95P190X145-6N">
+      <StepModel type="PRIMARY" file="DW01A-G.stp">
+        <Offset x="0.126500" y="-0.027300" z="1.049800"/>
+        <Rotation x="90.000" y="0.000" z="90.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="SMC-1-05-1-GT_SMC1051GT_SMC-1-0" package="SMC1051GT">
+      <StepModel type="PRIMARY" file="SMC-1-05-1-GT.stp">
+        <Offset x="5.122000" y="0.000000" z="4.354100"/>
+        <Rotation x="0.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="USB4085-GF-A_REVB_1_GCT_USB4085" package="GCT_USB4085-GF-A_REVB">
+      <StepModel type="PRIMARY" file="USB4085-GF-A.STEP">
+        <Offset x="0.000000" y="0.346200" z="0.067600"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="XL-5050RGBC-WS2812B_XL-5050RGBC" package="XL-5050RGBC_XLG-L">
+      <StepModel type="PRIMARY" file="XL-5050RGBC_XLG.step">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="0.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="NX7002AK,215_SOT95P230X110-3N_N" package="SOT95P230X110-3N">
+      <StepModel type="PRIMARY" file="NX7002AK_215.step">
+        <Offset x="0.000000" y="-0.000300" z="0.007000"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="FS8205A_SOP65P640X120-8N_FS8205" package="SOP65P640X120-8N">
+      <StepModel type="PRIMARY" file="FS8205A.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.000000"/>
+        <Rotation x="90.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="3361S-1-103GLF_TRIM_3361S-1-103" package="TRIM_3361S-1-103GLF">
+      <StepModel type="PRIMARY" file="3361S-1-103GLF.STEP">
+        <Offset x="-0.000000" y="0.000000" z="-0.047900"/>
+        <Rotation x="90.000" y="0.000" z="-0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="RCS06035K10JNEA_RESC1508X50N_5." package="RESC1508X50N">
+      <StepModel type="PRIMARY" file="RCS060310K0JNEA.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.562600"/>
+        <Rotation x="270.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="RCS060310K0JNEA_RESC1508X50N_10" package="RESC1508X50N">
+      <StepModel type="PRIMARY" file="RCS060310K0JNEA.STEP">
+        <Offset x="0.000000" y="0.000000" z="0.550000"/>
+        <Rotation x="270.000" y="0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="PCF8574ADWR_1_SOIC127P1030X265-" package="SOIC127P1030X265-16N">
+      <StepModel type="PRIMARY" file="PCF8574ADWR.STEP">
+        <Offset x="0.000000" y="-0.006500" z="-0.009300"/>
+        <Rotation x="90.000" y="-0.000" z="0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    <MapItem device="TP4056_SOP127P600X175-9N_TP4056" package="SOP127P600X175-9N">
+      <StepModel type="PRIMARY" file="TP4056.STEP">
+        <Offset x="0.000000" y="-0.008900" z="0.189700"/>
+        <Rotation x="90.000" y="-0.000" z="-0.000"/>
+        <MapColor colorIndex="-1" r="0.000000" g="0.000000" b="0.000000"/>
+        </StepModel>
+      </MapItem>
+    </Body>
+  </STEP-3D-MAPPING>
