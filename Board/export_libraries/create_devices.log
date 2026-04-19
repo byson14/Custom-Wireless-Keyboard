@@ -1,0 +1,133 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : Keyboard.brd                                  )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sun Jan 25 06:51:14 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/c0603c105k9pac7411_capc17595_90.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/c0201c104k9pactu_capc6333_33n_k.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/capacitor_smdcap_1uf_10.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/c0201c104k9pactu_capc6333_33n_1.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/c0603c105k9pac7411_capc17595__1.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/1n4148w_sodfl3816x120n_1n4148w.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/sml-d12u1wt86_led_sml-d12u1wt86.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/led_wl-smcw_0603_blue.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/ss14m_sodfl2512x73n_ss14m.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/nhd-14432wg-btfh-vt_nhd14432wg.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/isp1807-lr-rs_isp1807lrrs_isp18.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/dw01a-g_sot95p190x145-6n_dw01a-.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/smc-1-05-1-gt_smc1051gt_smc-1-0.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/usb4085-gf-a_revb_1_gct_usb4085.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/1778764_conn_1778764_conn_2p_1.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mtlw-101-07-g-s-280_samtec_mtlw.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/xl-5050rgbc-ws2812b_xl-5050rgbc.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mount_mnt_2p5mm_mount.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/nx7002ak215_sot95p230x110-3n_n.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/fs8205a_sop65p640x120-8n_fs8205.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/3361s-1-103glf_trim_3361s-1-103.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/rcs06035k10jnea_resc1508x50n_5.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/crgcq0603f2k2_resc1608x55n_2k2.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/crg0603f4k7_resc1608x55n_4k7.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/crg0603zr_resc1608x55n_smd_jump.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/cpf0603b2k49e1_resc1508x55n_2k4.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/rcs060310k0jnea_resc1508x50n_10.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/crgcq0603j1k0_resc1608x55n_1k_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/crg0603j100r_resc1608x55n_100r.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f7_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f8_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f9_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_1_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_2_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_3_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_4_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_5_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_6_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_7_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_8_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_9_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_tab_c.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_q_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_w_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_e_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_r_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_t_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_y_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_esc_c.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_u_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_i_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_o_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_caps_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_a_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_s_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_d_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_g_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_h_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f1_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_j_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_k_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_l_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_shift_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_z_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_x_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_c_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_v_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_b_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_n_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f2_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_m_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__1.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__2.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_ctrl_l.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_fn_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_wnds_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_alt_l_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_space_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_alt_r_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f10_c.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f3_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f11_c.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f12_c.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_del_c.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_power_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_0_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u___che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__3.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_backsp.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_numslo.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__4.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f4_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__5.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_-_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_p_che.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__6.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__7.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__8.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__9.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f5_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__10.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__11.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_enter_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__12.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_shif_1.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_f6_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_ctrl_r.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_left_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_up_ch.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_down_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u_right_.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/mx1a-11nn_cherry_sw_125u__che__13.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/pcf8574adwr_1_soic127p1030x265-.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/tp4056_sop127p600x175-9n_tp4056.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/ldk120c35r_0_sot323-5l_1p35x2p2.txt': written successfully.
+Device file 'C:/Users/lonewolf/Desktop/Custom Wireless Keyboard/Board/export_libraries/tlv75533pdrvr_vreg_tlv75533pdrv.txt': written successfully.
+
+  Created device files: 118
+
